@@ -1,0 +1,9 @@
+theme,n,mean_score,pct_pos,pct_neg
+general,78,1,100,0
+packaging,216,1,100,0
+corporate,344,0.82,82,0
+certification,341,0.619,61.9,0
+supply_chain,249,0.606,75.1,0
+greenwashing,125,0.576,57.6,0
+carbon,138,0.5,50,0
+consumer,129,0.488,48.8,0
