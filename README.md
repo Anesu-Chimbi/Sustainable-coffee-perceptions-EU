@@ -245,4 +245,4 @@ All outputs are saved to `Sustainable-coffee/outputs/`:
 
 ---
 
-*Last updated: August 2024*
+*Last updated: May 2026*
