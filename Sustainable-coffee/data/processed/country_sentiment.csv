@@ -1,0 +1,16 @@
+country,country_code,n_tweets,mean_compound,pct_positive,pct_negative,pct_neutral
+Austria,AT,14,0.786,78.6,0,21.4
+Belgium,BE,22,0.742,77.3,0,22.7
+Spain,ES,78,0.692,71.8,0,28.2
+United Kingdom,GB,198,0.673,70.7,0,29.3
+Finland,FI,29,0.667,69,0,31
+Germany,DE,137,0.659,69.3,0,30.7
+Portugal,PT,36,0.657,69.4,0,30.6
+Denmark,DK,42,0.651,66.7,0,33.3
+Sweden,SE,47,0.645,66,0,34
+Italy,IT,113,0.637,70.8,0,29.2
+France,FR,122,0.628,67.2,0,32.8
+Netherlands,NL,59,0.599,64.4,0,35.6
+Norway,NO,39,0.598,61.5,0,38.5
+Poland,PL,39,0.59,64.1,0,35.9
+Ireland,IE,25,0.56,56,0,44

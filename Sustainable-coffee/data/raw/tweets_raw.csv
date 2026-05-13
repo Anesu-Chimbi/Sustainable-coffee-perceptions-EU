@@ -1,0 +1,1001 @@
+tweet_id,text,created_at,country,country_code,latitude,longitude,is_mock
+mock_1,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-02-12 22:53:12.257345,Portugal,PT,39.52331257545101,-9.821659597403897,TRUE
+mock_2,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-29 02:34:41.708919,Poland,PL,52.931819894175696,20.83702063610414,TRUE
+mock_3,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-06 01:19:27.981058,Germany,DE,52.49803498665635,12.215272658095389,TRUE
+mock_4,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-06 05:00:50.191715,Ireland,IE,53.40880764193098,-5.201689982458079,TRUE
+mock_5,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-15 05:31:30.525587,Netherlands,NL,51.8238771640455,3.945928580301423,TRUE
+mock_6,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-06-16 06:51:24.947238,Italy,IT,41.74150053595903,12.908557534418993,TRUE
+mock_7,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-12 00:43:22.802861,Sweden,SE,58.47663295516138,19.1445157844163,TRUE
+mock_8,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-05 13:00:26.089384,United Kingdom,GB,50.726435283317905,-1.5185932062956553,TRUE
+mock_9,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-09-27 00:46:58.975154,Netherlands,NL,51.42334952886472,6.127472770881951,TRUE
+mock_10,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-07 11:27:41.352921,Sweden,SE,59.96896616315587,15.569878508508001,TRUE
+mock_11,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-07-25 07:58:05.594136,Italy,IT,42.79197743879632,12.775715165239191,TRUE
+mock_12,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-27 13:58:42.50504,Sweden,SE,58.969644117658326,19.914052949864512,TRUE
+mock_13,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-09-28 19:58:27.096474,Poland,PL,51.29681808159454,21.66652558698081,TRUE
+mock_14,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-15 14:19:24.483679,Germany,DE,52.42965493457836,14.497854561499247,TRUE
+mock_15,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-21 01:25:47.32372,Italy,IT,43.6935229546501,11.83592405086458,TRUE
+mock_16,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-12 23:38:42.722257,Poland,PL,53.833050536600396,21.35805130741202,TRUE
+mock_17,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-03-07 08:27:16.661484,Finland,FI,58.82415973062284,26.32765544758257,TRUE
+mock_18,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-26 04:04:12.784594,United Kingdom,GB,51.21447467510209,-1.6949795017989011,TRUE
+mock_19,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-24 11:26:41.645983,Italy,IT,43.126624393729834,13.702032954663224,TRUE
+mock_20,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-24 14:00:44.584262,Spain,ES,40.369404722711806,-5.391164648508892,TRUE
+mock_21,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-16 11:19:03.974396,Portugal,PT,39.977930593861146,-9.698537229617521,TRUE
+mock_22,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-01 03:48:36.991098,United Kingdom,GB,51.23313168535209,3.0473082229861426,TRUE
+mock_23,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-04-22 01:34:59.725532,Austria,AT,48.6839887391323,17.012798679234233,TRUE
+mock_24,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-08-31 19:35:58.99934,Poland,PL,52.3793929914002,20.89098816693696,TRUE
+mock_25,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-15 01:01:44.17675,United Kingdom,GB,54.08325559638405,1.0745188150530545,TRUE
+mock_26,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-10-12 14:25:01.235383,Italy,IT,42.63636205341801,12.207429611734023,TRUE
+mock_27,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-03 11:48:05.022104,France,FR,47.93476874462726,3.0461707510563594,TRUE
+mock_28,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-04-29 20:02:55.786165,Portugal,PT,38.21689506466939,-9.513514263815587,TRUE
+mock_29,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-08 07:18:57.090882,Italy,IT,42.19618822769765,9.673730544990212,TRUE
+mock_30,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-11-23 20:28:22.47034,Ireland,IE,51.77919948265631,-5.633134839975629,TRUE
+mock_31,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-09 04:20:34.1118,Sweden,SE,57.8564720440294,17.486223766255705,TRUE
+mock_32,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-26 16:01:35.208483,Denmark,DK,54.80254191491583,11.91167736029266,TRUE
+mock_33,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-08-20 09:06:53.347426,France,FR,48.621656314752684,2.3045566444743235,TRUE
+mock_34,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-18 14:49:21.931805,Netherlands,NL,53.39112171890558,6.511061115433376,TRUE
+mock_35,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-14 19:52:44.960792,United Kingdom,GB,51.28064194811817,0.2545538138712953,TRUE
+mock_36,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-06-19 13:11:36.229,Ireland,IE,53.42990457244655,-5.189855667673478,TRUE
+mock_37,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-09-23 09:24:28.975295,United Kingdom,GB,51.44831447219755,0.6548771578645644,TRUE
+mock_38,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-07-31 10:30:11.270629,Germany,DE,51.935810322379886,13.52191807935568,TRUE
+mock_39,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-21 05:02:00.804629,Portugal,PT,39.7897578150008,-8.294654950406784,TRUE
+mock_40,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-06-23 00:51:51.392216,Spain,ES,39.52278944953335,-3.8659796494740633,TRUE
+mock_41,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-25 03:22:17.485684,France,FR,48.717253185162484,0.8008252962171116,TRUE
+mock_42,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-03-13 20:29:35.435847,France,FR,48.621737535511784,2.7171622930584283,TRUE
+mock_43,European coffee consumption is booming but sustainability in the supply chain needs work,2024-05-08 02:55:28.390127,United Kingdom,GB,51.92570289560538,-2.8333763910059284,TRUE
+mock_44,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-26 22:59:46.787915,Finland,FI,61.485787649808955,23.816548982567642,TRUE
+mock_45,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-08-11 09:32:18.058106,France,FR,49.311051620893274,2.2285503877373514,TRUE
+mock_46,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-07 09:12:08.636724,Finland,FI,61.30589852845843,24.807088611431052,TRUE
+mock_47,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-10 02:28:15.160241,Belgium,BE,51.41047763883992,3.8955661755916497,TRUE
+mock_48,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-24 01:11:48.876991,Netherlands,NL,51.90033236429271,6.086309219594338,TRUE
+mock_49,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-02-01 13:22:38.949586,Finland,FI,60.26523504034319,23.716463450669647,TRUE
+mock_50,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-02-23 00:56:49.302912,Spain,ES,41.50086328909181,-6.836372160418132,TRUE
+mock_51,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-15 01:24:18.096443,France,FR,47.650987371074365,3.236542277194583,TRUE
+mock_52,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-21 03:52:26.336987,France,FR,49.15981652847576,2.3541260882648842,TRUE
+mock_53,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-22 15:37:13.019149,France,FR,48.77456774643821,2.16981300932292,TRUE
+mock_54,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-04-17 19:51:23.158198,Norway,NO,60.60222708858748,10.330530827914842,TRUE
+mock_55,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-11-18 22:44:36.241133,United Kingdom,GB,52.10013326014451,-2.1243994051943145,TRUE
+mock_56,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-07-14 15:12:11.294565,Sweden,SE,59.54084272307426,16.956754653817985,TRUE
+mock_57,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-08 10:13:07.28767,Netherlands,NL,53.594248893783444,5.508896934524075,TRUE
+mock_58,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-20 05:49:49.702445,United Kingdom,GB,50.27960495986424,-0.07742068119193321,TRUE
+mock_59,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-08-12 12:03:51.753682,Germany,DE,53.228574046788815,11.697307551697252,TRUE
+mock_60,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-20 08:59:50.445314,Italy,IT,40.63637437771397,13.217806317622683,TRUE
+mock_61,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-03 10:25:53.78134,Netherlands,NL,52.870173005694866,5.843655546091874,TRUE
+mock_62,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-11 18:23:54.677794,Austria,AT,48.27171383680058,16.238440344917315,TRUE
+mock_63,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-29 12:28:43.954017,Norway,NO,60.67380932555987,10.780336178861614,TRUE
+mock_64,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-13 14:34:56.204656,Spain,ES,40.46304988233186,-2.0090315101178913,TRUE
+mock_65,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-22 22:42:16.462893,Ireland,IE,52.045040130811124,-5.726193561437281,TRUE
+mock_66,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-02-21 01:11:47.871907,Germany,DE,50.893741452787125,14.863850153686961,TRUE
+mock_67,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-04 10:00:48.505437,Germany,DE,52.93277881939101,13.34590734455243,TRUE
+mock_68,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-06 01:26:27.255187,Denmark,DK,55.641298721513266,14.375385413806539,TRUE
+mock_69,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-16 15:50:36.431529,Netherlands,NL,51.94318528515353,4.809179455969129,TRUE
+mock_70,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-13 03:34:29.835142,Germany,DE,52.25114523211709,14.501298148639467,TRUE
+mock_71,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-17 10:16:51.552034,United Kingdom,GB,50.96286794631891,-0.5137344564908954,TRUE
+mock_72,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-23 15:19:42.189323,United Kingdom,GB,51.37412763833522,-1.3924031872647038,TRUE
+mock_73,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-23 16:40:52.435548,Germany,DE,51.7549559432001,14.601925672829944,TRUE
+mock_74,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-11 08:00:36.377949,Italy,IT,40.313592416423894,15.255204848925606,TRUE
+mock_75,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-28 16:34:56.775598,Germany,DE,52.3243201566005,13.008946261459982,TRUE
+mock_76,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-19 23:33:56.657605,Sweden,SE,60.13622069556991,19.862627354235183,TRUE
+mock_77,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-03-03 13:09:47.230859,United Kingdom,GB,53.001863653039734,-0.38429071980863083,TRUE
+mock_78,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-06-07 15:27:08.527719,France,FR,48.902084956765734,3.4081917414685137,TRUE
+mock_79,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-28 09:21:36.268406,Italy,IT,41.835464052232666,11.31296983195831,TRUE
+mock_80,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-28 23:58:01.106459,United Kingdom,GB,52.2703858249919,0.23077553394405106,TRUE
+mock_81,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-27 13:57:28.063581,Spain,ES,40.44285681323721,-4.616393312273244,TRUE
+mock_82,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-06-21 12:06:18.837816,United Kingdom,GB,51.15208127287197,-1.7225343810399654,TRUE
+mock_83,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-04-10 15:04:44.539696,France,FR,47.51016219572615,3.0860292922736043,TRUE
+mock_84,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-26 09:41:34.922295,Netherlands,NL,51.38904352017405,6.8315761124259495,TRUE
+mock_85,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-11 04:10:11.015099,Norway,NO,60.22504680965542,9.853791640946508,TRUE
+mock_86,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-04 21:08:54.37618,Spain,ES,39.23227682577619,-4.760651335031195,TRUE
+mock_87,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-03 05:29:07.783311,Germany,DE,53.33876589612376,12.112982465847702,TRUE
+mock_88,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-28 17:17:26.347567,United Kingdom,GB,50.422855568439836,-0.6497691777374087,TRUE
+mock_89,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-06-02 11:20:07.694911,United Kingdom,GB,51.3451435535092,0.6987764186938725,TRUE
+mock_90,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-26 11:33:57.470897,Germany,DE,52.49813123430906,14.254673854902471,TRUE
+mock_91,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-17 17:27:38.841489,Netherlands,NL,52.38973621290625,5.431545072998994,TRUE
+mock_92,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-07-26 04:35:08.510598,United Kingdom,GB,51.62155785758752,0.8115047744710148,TRUE
+mock_93,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-03 08:03:12.560667,Germany,DE,52.978808905120864,12.837346800777052,TRUE
+mock_94,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-19 07:19:02.436739,Poland,PL,52.09903005016138,20.792748026539396,TRUE
+mock_95,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-27 23:47:59.116141,Poland,PL,52.001171547322585,21.818459879262967,TRUE
+mock_96,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-03 09:37:32.175956,Sweden,SE,59.42826191592369,17.762107206110148,TRUE
+mock_97,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-25 07:37:08.117996,France,FR,48.55308644672218,1.146052911281815,TRUE
+mock_98,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-08 14:13:22.522959,Italy,IT,43.12992993528022,10.846819826320932,TRUE
+mock_99,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-06-05 09:23:04.19563,Sweden,SE,57.56380273870714,21.33710396396603,TRUE
+mock_100,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-07 12:21:53.901886,Spain,ES,41.221603695433146,-5.739658066675518,TRUE
+mock_101,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-17 21:27:18.668299,Spain,ES,40.20121365344805,-3.6648200166469582,TRUE
+mock_102,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-12 17:22:36.184912,Germany,DE,52.83785630866591,15.721177203381487,TRUE
+mock_103,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-04-19 01:54:33.982852,Germany,DE,53.29012263491174,14.405013050213556,TRUE
+mock_104,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-01 17:32:34.14216,France,FR,49.568454537628014,2.0775844026983994,TRUE
+mock_105,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-06-18 02:15:45.893676,Poland,PL,51.671582512763436,21.639995013317264,TRUE
+mock_106,European coffee consumption is booming but sustainability in the supply chain needs work,2024-09-25 05:30:39.163805,Finland,FI,61.45125559463347,27.141947490417714,TRUE
+mock_107,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-17 05:40:38.108354,Sweden,SE,58.00161925176676,18.327553383796158,TRUE
+mock_108,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-21 18:51:26.793919,Sweden,SE,59.991117098783185,17.41709498537608,TRUE
+mock_109,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-07 23:12:42.536614,Italy,IT,41.490717781251035,14.242271533486546,TRUE
+mock_110,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-01-25 01:26:22.424837,United Kingdom,GB,49.96610797964368,2.1427921430783856,TRUE
+mock_111,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-02-27 22:12:55.947578,Spain,ES,38.90734892110404,-4.881465872485049,TRUE
+mock_112,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-17 18:04:33.671358,Ireland,IE,53.49614325075175,-5.337491883314761,TRUE
+mock_113,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-08 13:59:06.972077,Norway,NO,61.67882744152645,10.955216756349914,TRUE
+mock_114,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-02-03 05:46:56.167559,Italy,IT,42.11870085131557,13.341969570672036,TRUE
+mock_115,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-08 14:12:08.084216,Italy,IT,42.804627835622625,13.132037398264938,TRUE
+mock_116,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-10 13:12:37.415452,Italy,IT,42.57093549924808,12.475384281254478,TRUE
+mock_117,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-05-10 05:23:48.002447,United Kingdom,GB,50.976307777697436,0.42590125676836477,TRUE
+mock_118,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-02-03 12:32:35.470564,France,FR,49.663168782783515,0.8473657211581556,TRUE
+mock_119,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-03-27 08:43:50.40363,Spain,ES,40.68236117239146,-5.3853039325946845,TRUE
+mock_120,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-05 03:03:44.869269,Denmark,DK,55.86527943411969,13.464898988651173,TRUE
+mock_121,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-04 16:07:35.321174,France,FR,49.7008905874482,2.4032426039320702,TRUE
+mock_122,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-08 15:39:25.482161,France,FR,49.49796159331222,2.1420595503098476,TRUE
+mock_123,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-02-13 03:41:50.301009,Spain,ES,39.89874013062149,-5.711262374727806,TRUE
+mock_124,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-28 20:21:31.235034,Spain,ES,40.71617894874937,-4.383397588921737,TRUE
+mock_125,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-22 18:55:06.259556,Sweden,SE,58.586265636763535,18.330646181075856,TRUE
+mock_126,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-02 18:43:09.759258,France,FR,49.40465472807342,1.7164124950966138,TRUE
+mock_127,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-23 10:08:24.509179,Portugal,PT,38.353835853372345,-9.00245918440735,TRUE
+mock_128,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-06-28 15:19:12.485119,Finland,FI,60.56171091537482,25.461876696141157,TRUE
+mock_129,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-01-18 14:23:18.522663,Germany,DE,52.794399236157076,13.234997634754183,TRUE
+mock_130,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-13 22:58:37.900459,Sweden,SE,59.08369000827047,18.613111731086914,TRUE
+mock_131,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-12-05 04:52:58.769287,Portugal,PT,39.07241009417039,-9.391677338247236,TRUE
+mock_132,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-01 09:04:52.615975,Spain,ES,40.85948498050158,-4.08202339342467,TRUE
+mock_133,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-30 03:30:14.126249,Netherlands,NL,52.21544000787407,4.595072327790388,TRUE
+mock_134,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-29 04:26:36.153771,Poland,PL,53.13779400664196,21.76666491619568,TRUE
+mock_135,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-02 19:20:55.572677,Ireland,IE,54.41416216538649,-5.214721540200699,TRUE
+mock_136,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-11-30 07:51:12.524299,Spain,ES,39.87040699543233,-0.8974250961016508,TRUE
+mock_137,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-30 22:42:40.789356,Denmark,DK,55.07810463461999,11.420030930866725,TRUE
+mock_138,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-01-01 13:46:40.029599,United Kingdom,GB,51.910830863127025,-0.9489489280075094,TRUE
+mock_139,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-12-26 19:10:19.006848,Norway,NO,59.16935020956698,11.572978921619903,TRUE
+mock_140,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-30 02:30:06.762191,Spain,ES,40.04046095579976,-1.7348016040645498,TRUE
+mock_141,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-18 02:05:23.422661,United Kingdom,GB,52.142346159282894,1.3719778095971684,TRUE
+mock_142,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-08 05:36:53.4556,United Kingdom,GB,51.041218519215114,-0.6612467419969745,TRUE
+mock_143,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-05 14:36:20.154915,Italy,IT,40.35749986572134,11.686122723514414,TRUE
+mock_144,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-28 18:01:07.194788,Norway,NO,60.43151266705772,12.835682725596527,TRUE
+mock_145,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-06-29 02:09:52.110924,Sweden,SE,58.01796782096459,19.95141622010688,TRUE
+mock_146,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-05-05 13:29:17.674561,Denmark,DK,54.616319794036926,12.857433110473131,TRUE
+mock_147,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-02-22 08:00:05.768882,United Kingdom,GB,49.08565385646568,1.9408259549027806,TRUE
+mock_148,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-18 19:59:21.30831,Poland,PL,52.86499025778405,20.99041580442253,TRUE
+mock_149,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-09-16 20:22:46.693908,Germany,DE,52.700877671077876,12.418519562236677,TRUE
+mock_150,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-01 15:07:08.830243,United Kingdom,GB,51.869834772753066,-0.1607322043402524,TRUE
+mock_151,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-07 18:45:22.64184,Sweden,SE,59.97583377857859,18.19590530385884,TRUE
+mock_152,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-04-05 12:52:46.795275,France,FR,48.86642278054275,0.42851468252714286,TRUE
+mock_153,European coffee consumption is booming but sustainability in the supply chain needs work,2024-12-09 23:06:57.647839,Norway,NO,59.01553927543998,10.594202451904449,TRUE
+mock_154,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-16 01:59:24.99626,France,FR,49.3510205218647,1.7976714886011977,TRUE
+mock_155,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-27 05:51:28.267833,Netherlands,NL,53.44269180465574,5.489544181639793,TRUE
+mock_156,European coffee consumption is booming but sustainability in the supply chain needs work,2024-08-23 05:17:22.502526,Norway,NO,58.69982324976427,10.162525882522765,TRUE
+mock_157,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-03-20 20:50:10.262744,Germany,DE,52.01440861190477,13.978664141281875,TRUE
+mock_158,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-07 05:59:33.16478,United Kingdom,GB,51.266203947474736,0.5435492480591899,TRUE
+mock_159,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-08 03:27:18.663532,United Kingdom,GB,50.46825332534112,-0.43518904943068193,TRUE
+mock_160,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-27 19:04:08.862467,Netherlands,NL,52.955284679019755,4.8477912823592995,TRUE
+mock_161,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-17 08:01:42.374896,Poland,PL,51.72065447768231,23.857818350351415,TRUE
+mock_162,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-24 05:37:53.807877,Spain,ES,41.40552531517731,-1.842362663973264,TRUE
+mock_163,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-31 11:48:24.308722,Spain,ES,40.44280641090189,-1.834285601765226,TRUE
+mock_164,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-09-09 13:39:17.448073,Germany,DE,53.08247401413748,13.469733476136696,TRUE
+mock_165,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-26 08:05:18.098731,Italy,IT,43.14887845456848,11.492265301367404,TRUE
+mock_166,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-23 21:07:27.48323,United Kingdom,GB,51.71249980287775,0.5853481383865793,TRUE
+mock_167,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-04-04 14:05:45.822036,Italy,IT,42.76138100736581,12.579257339075667,TRUE
+mock_168,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-02 04:17:01.918926,Germany,DE,52.6685583453434,17.701591391515986,TRUE
+mock_169,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-14 07:12:04.471273,United Kingdom,GB,50.2906611793421,-2.4182746643815216,TRUE
+mock_170,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-08-14 17:31:38.572636,Germany,DE,52.5179218079309,13.156600994904828,TRUE
+mock_171,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-09-01 23:29:42.451721,Sweden,SE,59.87450896483368,19.880458245127734,TRUE
+mock_172,European coffee consumption is booming but sustainability in the supply chain needs work,2024-05-10 05:39:46.990506,France,FR,49.291565614273814,-0.21821968019740634,TRUE
+mock_173,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-08-23 07:40:22.724142,France,FR,48.760889323297384,1.9884216007318885,TRUE
+mock_174,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-10 11:09:31.181264,Italy,IT,40.92584040906528,12.900881523064621,TRUE
+mock_175,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-12-08 04:57:32.667861,France,FR,49.41711869496757,2.0364348900401366,TRUE
+mock_176,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-11 09:09:22.844221,United Kingdom,GB,50.76683517732169,-1.2181261639469283,TRUE
+mock_177,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-12-17 17:17:01.505678,Denmark,DK,54.69854124605955,12.453311738044109,TRUE
+mock_178,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-01-11 06:40:42.826541,Spain,ES,40.8759421747244,-2.093765891845887,TRUE
+mock_179,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-02-11 17:53:00.876685,Denmark,DK,54.71375146784814,10.982002571946762,TRUE
+mock_180,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-04-22 21:44:01.778751,Norway,NO,60.09549153192491,12.497802869411979,TRUE
+mock_181,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-26 16:19:00.998606,Portugal,PT,38.702217748274876,-8.003141265382382,TRUE
+mock_182,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-04-05 15:32:23.503339,Belgium,BE,49.73743225117955,2.9159744978080244,TRUE
+mock_183,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-11 07:44:58.447551,Germany,DE,53.44375712946622,11.599087574390445,TRUE
+mock_184,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-30 22:50:48.939253,Germany,DE,52.02575600068086,13.44144642067584,TRUE
+mock_185,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-21 03:05:53.68227,Sweden,SE,60.259982653069336,18.44355957448323,TRUE
+mock_186,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-12 05:39:27.127689,Sweden,SE,58.91997305631029,19.523449712614735,TRUE
+mock_187,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-28 04:13:02.828691,Portugal,PT,38.23995432307935,-9.145059246211057,TRUE
+mock_188,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-22 01:29:18.842348,Denmark,DK,55.67501918031321,13.10444591276827,TRUE
+mock_189,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-09 10:52:40.42519,United Kingdom,GB,51.21355440321724,1.44709577881132,TRUE
+mock_190,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-13 04:48:25.291289,Germany,DE,52.214719137881815,14.804827022119541,TRUE
+mock_191,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-08-28 11:49:32.051525,Germany,DE,51.79786849325302,14.391312384901655,TRUE
+mock_192,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-03-25 05:37:20.650845,Norway,NO,58.92968229985763,11.188700478108583,TRUE
+mock_193,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-30 06:10:15.982919,United Kingdom,GB,51.99062929494963,0.35714049374545864,TRUE
+mock_194,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-03 19:42:44.55908,United Kingdom,GB,50.855037326830015,1.343143499351949,TRUE
+mock_195,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-02 14:29:29.155535,United Kingdom,GB,50.39883445607288,1.2226469008785659,TRUE
+mock_196,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-12 02:54:16.757263,United Kingdom,GB,51.09372168066916,-0.17381792797497578,TRUE
+mock_197,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-24 22:58:53.48416,Italy,IT,41.25925161061013,12.937507896794934,TRUE
+mock_198,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-03-15 18:54:05.970102,United Kingdom,GB,49.745771451463945,1.931062759982924,TRUE
+mock_199,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-11 19:23:32.239601,Sweden,SE,59.06725028058586,19.865640414966382,TRUE
+mock_200,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-06 07:14:19.003193,Sweden,SE,59.43373929692841,16.927302806387058,TRUE
+mock_201,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-24 20:42:11.077172,Belgium,BE,51.03575388518855,6.137842009498324,TRUE
+mock_202,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-15 19:34:38.704745,Italy,IT,42.21419301233658,12.396973207289761,TRUE
+mock_203,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-02-19 18:19:02.104125,Ireland,IE,52.49932502959935,-8.088523761984147,TRUE
+mock_204,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-24 22:35:20.242459,Italy,IT,41.63941830414125,14.050971391360033,TRUE
+mock_205,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-12-11 09:47:20.560714,United Kingdom,GB,50.69332095565693,0.00136130668125925,TRUE
+mock_206,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-17 09:27:13.098404,Italy,IT,41.391654814372984,13.660455195776107,TRUE
+mock_207,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-03 11:46:17.425604,Finland,FI,59.23212744961013,27.326935593060423,TRUE
+mock_208,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-15 12:44:23.523312,Italy,IT,41.00682895947784,13.795847165798763,TRUE
+mock_209,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-11-22 23:59:29.426599,Germany,DE,53.00390493006075,12.975687767800217,TRUE
+mock_210,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-12 04:34:38.685493,Germany,DE,52.2819827438571,13.238092250337722,TRUE
+mock_211,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-09-21 03:36:48.184744,Spain,ES,40.19292706529706,-4.884558919969002,TRUE
+mock_212,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-29 23:10:40.500201,Netherlands,NL,53.78364654391319,3.913950224727529,TRUE
+mock_213,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-13 22:57:58.610489,France,FR,48.8532862676741,2.8874371070176768,TRUE
+mock_214,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-03-30 00:55:47.311576,United Kingdom,GB,51.070348972312864,-0.45913295069137383,TRUE
+mock_215,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-01 18:22:41.42263,Italy,IT,42.49782935693259,13.289905878289227,TRUE
+mock_216,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-22 20:34:45.046459,Ireland,IE,52.91019373168821,-5.201108540395051,TRUE
+mock_217,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-14 18:21:35.964264,Spain,ES,41.498326225183604,-3.263844086532768,TRUE
+mock_218,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-08 14:37:10.217891,France,FR,48.597862111483025,1.8216252096596572,TRUE
+mock_219,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-10-01 00:03:05.557754,Spain,ES,39.90707790870528,-5.497515987406837,TRUE
+mock_220,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-01 14:20:22.760309,Portugal,PT,37.76549995914026,-8.96244618967304,TRUE
+mock_221,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-28 04:51:58.113088,Italy,IT,42.16291228687287,11.254620059196045,TRUE
+mock_222,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-25 15:00:19.210196,United Kingdom,GB,52.67320850195213,0.6751746455138807,TRUE
+mock_223,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-02-09 12:16:57.848392,Spain,ES,40.11519236392887,-2.7725855199297076,TRUE
+mock_224,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-21 21:28:02.519822,Finland,FI,60.40917411350195,25.3792169897445,TRUE
+mock_225,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-12 12:58:32.978813,Germany,DE,52.76666308414058,12.15426461024212,TRUE
+mock_226,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-06-15 20:52:39.383802,Denmark,DK,56.837754592247634,11.693835251893375,TRUE
+mock_227,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-10-22 04:46:32.670677,Germany,DE,53.03110128053294,12.810194828368902,TRUE
+mock_228,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-26 04:36:06.508996,Germany,DE,51.641075875443754,13.576670894129414,TRUE
+mock_229,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-07-14 13:19:26.179982,United Kingdom,GB,50.94247858026661,2.7278036519423963,TRUE
+mock_230,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-27 05:33:36.830997,Germany,DE,51.90309563445235,12.295197479472915,TRUE
+mock_231,European coffee consumption is booming but sustainability in the supply chain needs work,2024-08-09 12:13:03.642018,France,FR,49.013258297705775,-0.2882173398506165,TRUE
+mock_232,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-02 13:47:12.531917,United Kingdom,GB,51.49684222341548,-0.2444800594735632,TRUE
+mock_233,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-14 01:16:20.911303,Germany,DE,52.794350000873415,12.39290680452355,TRUE
+mock_234,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-05-06 14:17:37.388243,United Kingdom,GB,50.9741256682422,-2.70692789045774,TRUE
+mock_235,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-07 14:48:42.998422,Austria,AT,47.89892266387116,15.350830428614854,TRUE
+mock_236,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-12-04 06:02:00.455553,Denmark,DK,56.29308804834007,12.151704781317003,TRUE
+mock_237,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-12 23:40:16.952263,United Kingdom,GB,51.42031459484122,-1.4226372545157082,TRUE
+mock_238,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-14 16:17:26.384011,Belgium,BE,50.27656809711432,5.258791832796133,TRUE
+mock_239,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-03-30 13:51:30.668155,Spain,ES,41.176931499249015,-2.61083163317899,TRUE
+mock_240,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-22 17:23:49.212076,France,FR,48.91079704925471,1.91023383945784,TRUE
+mock_241,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-05 10:35:43.474379,United Kingdom,GB,50.766772266382766,-1.877903118738095,TRUE
+mock_242,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-16 19:13:30.132064,Spain,ES,41.76775084900931,-2.98699463336375,TRUE
+mock_243,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-03-06 03:19:06.106195,United Kingdom,GB,50.56551920804267,-1.1258496245434535,TRUE
+mock_244,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-10 23:33:19.889468,Germany,DE,51.07517099187798,12.404098956040944,TRUE
+mock_245,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-10-21 22:24:13.745612,Spain,ES,38.597494041145424,-3.521071822043013,TRUE
+mock_246,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-07 02:52:16.565318,Italy,IT,42.42090077563736,11.328624750339143,TRUE
+mock_247,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-20 08:41:08.902132,United Kingdom,GB,51.073733899517784,-0.4536212891876654,TRUE
+mock_248,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-05-06 00:48:02.172639,United Kingdom,GB,51.27955251442217,-1.0251698989784164,TRUE
+mock_249,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-15 04:09:37.460725,Italy,IT,42.13170157810323,12.97074044849449,TRUE
+mock_250,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-12 21:15:45.58608,Poland,PL,51.82681275056739,19.984432914138605,TRUE
+mock_251,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-08 07:31:36.699033,France,FR,47.61355186004425,1.2874880828834565,TRUE
+mock_252,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-12-03 21:41:44.658694,Germany,DE,50.94017296316641,12.245733866854078,TRUE
+mock_253,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-06 22:59:25.472219,Germany,DE,52.227440065415216,13.413259584027854,TRUE
+mock_254,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-24 00:28:21.552408,Italy,IT,42.03978042186505,13.957938758506213,TRUE
+mock_255,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-23 14:39:28.755139,United Kingdom,GB,49.67777795137822,-1.1666542188859412,TRUE
+mock_256,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-13 12:25:15.970957,Denmark,DK,55.93241958475767,12.861721513735924,TRUE
+mock_257,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-10-14 00:30:04.633905,United Kingdom,GB,51.83784508597889,-0.8873403995284458,TRUE
+mock_258,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-09 17:17:23.851966,Italy,IT,42.93578989056537,11.193780983263203,TRUE
+mock_259,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-06 08:22:36.23454,Spain,ES,40.53177121485916,-2.390642922270763,TRUE
+mock_260,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-03-04 02:30:47.117132,Spain,ES,40.563963072640185,-4.383072785989359,TRUE
+mock_261,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-12-26 06:44:17.077038,Sweden,SE,59.783682901380644,20.04497215670872,TRUE
+mock_262,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-17 05:39:29.606251,United Kingdom,GB,51.48468738466485,-0.9243861347004888,TRUE
+mock_263,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-14 11:23:24.102717,Germany,DE,52.436228522096954,14.188396044282358,TRUE
+mock_264,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-10-26 15:37:32.225985,Poland,PL,52.29278757152225,22.332830658281644,TRUE
+mock_265,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-14 19:46:55.143719,Italy,IT,42.49533869123871,15.068864876079594,TRUE
+mock_266,European coffee consumption is booming but sustainability in the supply chain needs work,2024-09-22 02:31:09.204178,United Kingdom,GB,51.154967517177845,-1.0971661709588754,TRUE
+mock_267,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-02-12 08:00:56.725254,Belgium,BE,50.40037683847101,4.491687027437763,TRUE
+mock_268,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-05-05 18:25:55.986893,Germany,DE,51.80787033859543,14.522989335438863,TRUE
+mock_269,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-28 03:12:45.206712,Poland,PL,51.4337941733825,20.397999956562227,TRUE
+mock_270,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-03 12:26:31.155019,Belgium,BE,51.061439977070904,5.113824156621416,TRUE
+mock_271,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-18 13:49:51.263082,United Kingdom,GB,52.73789778054814,-0.6167814029636447,TRUE
+mock_272,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-17 18:23:37.87173,Norway,NO,59.12491234490845,9.439993136792651,TRUE
+mock_273,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-17 09:17:36.937598,Italy,IT,41.74924765899243,9.815394128276443,TRUE
+mock_274,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-17 18:35:06.890543,United Kingdom,GB,50.67599907083527,0.5175674869317705,TRUE
+mock_275,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-02-23 22:54:56.289752,Belgium,BE,51.52646915348839,3.9897114618044935,TRUE
+mock_276,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-25 21:02:08.418193,France,FR,48.646094508233496,4.361452914583147,TRUE
+mock_277,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-20 23:53:11.966405,Germany,DE,52.64320317323234,12.060346509610447,TRUE
+mock_278,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-04-01 04:34:39.160747,France,FR,49.17842255018334,1.713824457004583,TRUE
+mock_279,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-08-16 12:08:04.904511,Italy,IT,41.05657678298044,13.46879875208931,TRUE
+mock_280,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-07-21 10:21:49.59753,France,FR,48.816204569511434,1.9867895099950563,TRUE
+mock_281,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-30 14:43:26.683642,Italy,IT,41.717325906324376,13.085671901391894,TRUE
+mock_282,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-05 22:45:34.801025,United Kingdom,GB,52.04028444994203,1.5233405851634119,TRUE
+mock_283,European coffee consumption is booming but sustainability in the supply chain needs work,2024-10-24 08:24:45.64106,Germany,DE,51.513404245194955,16.012178709571106,TRUE
+mock_284,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-02-05 01:17:48.060578,Austria,AT,47.24003076446178,16.461664533448204,TRUE
+mock_285,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-11-14 20:25:48.219497,France,FR,49.51269326129288,1.2942854657175027,TRUE
+mock_286,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-01 18:01:07.705205,United Kingdom,GB,51.02952171097362,-1.4015380111701068,TRUE
+mock_287,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-02-02 10:39:54.65642,Italy,IT,41.37176333601954,11.84416067711199,TRUE
+mock_288,European coffee consumption is booming but sustainability in the supply chain needs work,2024-03-08 07:25:44.221625,United Kingdom,GB,51.59041081775788,-0.6118116456456467,TRUE
+mock_289,European coffee consumption is booming but sustainability in the supply chain needs work,2024-02-01 12:41:12.138995,France,FR,48.64368096025117,0.8468029335202569,TRUE
+mock_290,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-17 07:56:10.639801,United Kingdom,GB,52.99310519755103,0.6173515973348304,TRUE
+mock_291,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-24 20:06:21.824356,Belgium,BE,51.00762516461424,6.108674946900722,TRUE
+mock_292,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-10-06 09:42:44.241473,Sweden,SE,59.42924805673445,17.568041649329988,TRUE
+mock_293,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-04 20:50:11.587863,Germany,DE,53.24485992746828,12.151599841190855,TRUE
+mock_294,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-02 21:32:00.750394,France,FR,48.8520426005923,0.771323505911303,TRUE
+mock_295,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-14 00:31:49.773407,France,FR,48.93899176006196,3.2241819344141556,TRUE
+mock_296,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-04 15:04:19.607665,United Kingdom,GB,50.64169967941283,-0.062172853628165194,TRUE
+mock_297,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-04-06 02:04:49.19241,Norway,NO,58.06562285561546,8.514174298274082,TRUE
+mock_298,European coffee consumption is booming but sustainability in the supply chain needs work,2024-12-07 23:34:12.843194,Spain,ES,39.434234519948525,-3.848506212574685,TRUE
+mock_299,European coffee consumption is booming but sustainability in the supply chain needs work,2024-11-17 11:33:48.881505,United Kingdom,GB,51.59128754383775,-0.099605947343874,TRUE
+mock_300,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-30 17:10:37.071231,United Kingdom,GB,50.6733623367157,-1.1125340136746282,TRUE
+mock_301,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-12-12 11:07:36.782006,Italy,IT,42.45104620187365,11.034399955485288,TRUE
+mock_302,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-17 20:26:49.799067,Italy,IT,42.48006641413989,11.956416807661391,TRUE
+mock_303,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-09 02:59:35.327291,United Kingdom,GB,51.67390416875127,-0.942783917537353,TRUE
+mock_304,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-24 07:21:53.032213,France,FR,48.738674614705296,1.4907435374178486,TRUE
+mock_305,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-06 12:34:10.163835,Belgium,BE,49.707448111529054,1.636372171416912,TRUE
+mock_306,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-07-08 02:55:53.487336,Poland,PL,51.95284991305827,20.820800514260554,TRUE
+mock_307,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-04-15 12:03:21.655354,France,FR,48.53767769077022,3.438427507964154,TRUE
+mock_308,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-03-20 21:40:33.776821,United Kingdom,GB,52.030583315615836,1.287634952628281,TRUE
+mock_309,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-04 09:07:09.64251,Germany,DE,53.546903629398955,15.889222983077142,TRUE
+mock_310,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-03-30 23:54:43.184579,Germany,DE,52.900832247915595,13.718347964385751,TRUE
+mock_311,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-04 13:16:59.759392,United Kingdom,GB,50.597369171842104,-1.362404594968559,TRUE
+mock_312,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-25 19:39:11.315879,Finland,FI,61.536797844318535,25.602810683462355,TRUE
+mock_313,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-28 06:52:34.665589,Italy,IT,42.7082824259617,13.81981402774624,TRUE
+mock_314,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-18 19:23:23.113418,United Kingdom,GB,51.678816972699565,2.1638057964970083,TRUE
+mock_315,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-09 12:16:31.548575,Germany,DE,50.7348123254323,14.373504200827275,TRUE
+mock_316,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-14 00:31:22.730424,Poland,PL,51.436331505157476,22.70189257055275,TRUE
+mock_317,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-02-10 19:02:29.260452,Germany,DE,52.44514154623181,13.927003882043545,TRUE
+mock_318,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-05 12:32:06.691602,Netherlands,NL,53.009044721252216,3.366998069678681,TRUE
+mock_319,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-19 03:46:20.507006,Portugal,PT,37.75607664003337,-10.133647846253732,TRUE
+mock_320,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-12 06:50:39.49156,Austria,AT,50.76895916541383,18.664383049965306,TRUE
+mock_321,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-28 08:21:29.766946,France,FR,46.85694011923934,3.1449047758194846,TRUE
+mock_322,European coffee consumption is booming but sustainability in the supply chain needs work,2024-12-22 12:20:40.944406,France,FR,48.711252840532744,1.4987353696015644,TRUE
+mock_323,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-16 01:16:23.705675,United Kingdom,GB,51.292349885390855,-0.9468572104685838,TRUE
+mock_324,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-11 13:55:41.283272,Germany,DE,51.969306466704644,12.295137704102748,TRUE
+mock_325,European coffee consumption is booming but sustainability in the supply chain needs work,2024-12-12 00:37:06.392953,Spain,ES,40.14480743133908,-3.521832049604766,TRUE
+mock_326,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-07 08:56:35.1992,Poland,PL,52.79391612605785,20.69997916664067,TRUE
+mock_327,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-11 10:17:27.407763,France,FR,48.20056585937138,1.1698772550664411,TRUE
+mock_328,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-16 10:36:39.999359,Ireland,IE,51.63374898695737,-4.742961177633291,TRUE
+mock_329,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-17 18:07:58.045003,Sweden,SE,59.37501432224817,18.12227971960027,TRUE
+mock_330,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-02-09 17:44:11.474447,Norway,NO,59.89854415039776,11.709398039349058,TRUE
+mock_331,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-08 14:24:48.688237,Poland,PL,52.189519478102746,20.543924760004792,TRUE
+mock_332,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-05 00:47:59.438536,United Kingdom,GB,52.034374459646486,0.10993845601666258,TRUE
+mock_333,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-03-07 01:52:35.816082,United Kingdom,GB,51.48946583763827,1.1402279708297118,TRUE
+mock_334,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-13 04:36:37.675715,France,FR,49.520837624381045,3.1108687945189644,TRUE
+mock_335,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-02 13:56:04.779664,Netherlands,NL,50.79141173389179,6.029537491495084,TRUE
+mock_336,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-08 02:40:45.384275,Italy,IT,40.997455604022555,10.308043912983262,TRUE
+mock_337,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-10-29 22:31:21.915226,Italy,IT,42.179039657268575,12.712645257555875,TRUE
+mock_338,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-01 01:40:28.081285,Germany,DE,52.21768121432246,13.169830565663277,TRUE
+mock_339,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-30 22:39:07.514632,Denmark,DK,56.4558196783341,11.819761547988204,TRUE
+mock_340,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-18 11:07:30.840578,Germany,DE,51.69622411797883,12.727164390488,TRUE
+mock_341,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-17 12:18:12.596085,France,FR,49.479122185997475,4.310918951959932,TRUE
+mock_342,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-19 06:08:53.553855,United Kingdom,GB,50.96493380720771,0.4166415205270888,TRUE
+mock_343,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-17 01:29:47.106648,Denmark,DK,54.80956784502736,12.426472055571304,TRUE
+mock_344,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-03-19 13:48:43.409075,France,FR,48.625755848506444,3.4268308545729207,TRUE
+mock_345,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-05-15 15:02:33.680317,United Kingdom,GB,51.53982345853499,-0.7545960994279497,TRUE
+mock_346,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-09-25 22:43:41.958668,United Kingdom,GB,50.51785443077957,0.06662043585877508,TRUE
+mock_347,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-29 19:48:39.623519,Finland,FI,59.58879527133804,26.736234776023064,TRUE
+mock_348,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-06-02 02:24:24.123333,France,FR,47.903054350705695,1.9008462966193567,TRUE
+mock_349,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-23 09:48:41.942127,Denmark,DK,56.51341918220782,11.641012473284142,TRUE
+mock_350,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-17 04:07:38.44916,Portugal,PT,39.27889009924709,-9.757951294158888,TRUE
+mock_351,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-11-06 19:59:46.757096,Italy,IT,41.07397829031591,11.239044554576699,TRUE
+mock_352,European coffee consumption is booming but sustainability in the supply chain needs work,2024-09-09 19:32:49.024229,Spain,ES,40.845876803298204,-3.396805010760006,TRUE
+mock_353,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-04 21:03:24.342605,United Kingdom,GB,51.29553486152038,0.2934342247943572,TRUE
+mock_354,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-19 12:31:39.960505,United Kingdom,GB,50.609286594282665,0.9268068805886037,TRUE
+mock_355,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-02-23 17:35:27.432248,Sweden,SE,59.63695795169184,20.26211472595299,TRUE
+mock_356,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-08 22:49:32.990459,Italy,IT,41.6416397505229,14.186288974098481,TRUE
+mock_357,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-07 10:15:22.169919,Netherlands,NL,53.10414392095322,3.3990498470372006,TRUE
+mock_358,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-11-15 13:52:19.010279,Finland,FI,60.04410911457928,27.398930625367303,TRUE
+mock_359,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-31 06:09:59.404977,Italy,IT,42.85044398568302,12.667134185110577,TRUE
+mock_360,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-31 08:12:54.039468,Italy,IT,41.49218839058563,12.03599707587233,TRUE
+mock_361,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-21 07:09:25.712086,Spain,ES,40.57563840869864,-1.4732371714678298,TRUE
+mock_362,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-26 09:11:52.824639,Netherlands,NL,52.696235537091646,5.414626461371537,TRUE
+mock_363,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-15 08:34:48.947464,Germany,DE,52.72328671498448,15.476948167507725,TRUE
+mock_364,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-17 01:30:49.400818,Finland,FI,60.36155394985066,24.947771591032815,TRUE
+mock_365,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-11-05 15:07:57.746171,Netherlands,NL,52.38960276605492,4.022697030234989,TRUE
+mock_366,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-17 10:36:47.070956,Spain,ES,40.32730799513801,-6.059156891464756,TRUE
+mock_367,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-05-05 21:19:17.468596,Spain,ES,41.49202509225507,-2.347761621773775,TRUE
+mock_368,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-11-11 12:54:20.395955,Poland,PL,52.92650445510654,19.93429873387906,TRUE
+mock_369,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-30 02:15:09.51918,France,FR,48.41208946287848,3.3456311124703904,TRUE
+mock_370,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-30 05:50:45.79846,Germany,DE,53.61714977697556,13.54387227993961,TRUE
+mock_371,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-08 11:54:08.541818,United Kingdom,GB,51.615838698646755,0.46692193376408486,TRUE
+mock_372,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-27 08:39:41.080098,France,FR,48.38751458272376,3.8199678917840703,TRUE
+mock_373,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-04-07 15:41:37.216751,Norway,NO,60.035841807646825,10.217620345263718,TRUE
+mock_374,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-02 08:51:02.887222,United Kingdom,GB,51.37425001006333,-0.6538403034212114,TRUE
+mock_375,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-08 05:34:40.320534,Sweden,SE,59.38075167563688,17.821889995265483,TRUE
+mock_376,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-23 15:08:37.092106,Finland,FI,59.42128467668138,26.272424526925825,TRUE
+mock_377,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-27 04:21:25.630913,Germany,DE,51.844139779797445,12.830257154598474,TRUE
+mock_378,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-12 04:01:52.055746,United Kingdom,GB,52.59033517522034,-0.3106123371492574,TRUE
+mock_379,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-06-12 05:11:11.127594,United Kingdom,GB,52.26909674442502,0.8555893989069744,TRUE
+mock_380,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-22 07:26:13.282642,Denmark,DK,54.99302042047911,13.534494379023684,TRUE
+mock_381,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-19 19:49:08.63688,Spain,ES,39.679926307650945,-2.743836920504687,TRUE
+mock_382,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-21 08:17:44.811538,Italy,IT,43.278666506237464,12.558861887403605,TRUE
+mock_383,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-10-12 15:11:09.573918,France,FR,50.42723372970315,3.2151355218017867,TRUE
+mock_384,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-26 15:06:33.845078,Germany,DE,51.87828704331579,13.743191683563676,TRUE
+mock_385,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-06 03:01:03.059223,Spain,ES,39.35815578990951,-4.459378045783392,TRUE
+mock_386,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-16 13:30:28.017028,Denmark,DK,57.79879613345494,14.765261376961316,TRUE
+mock_387,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-06-11 17:51:01.859809,United Kingdom,GB,51.683703131477444,-2.335613167617098,TRUE
+mock_388,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-16 18:17:58.549833,Finland,FI,60.34939991371351,26.014634057455666,TRUE
+mock_389,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-08 00:51:54.480351,United Kingdom,GB,51.56090930796022,0.310001219473527,TRUE
+mock_390,European coffee consumption is booming but sustainability in the supply chain needs work,2024-03-21 01:28:36.327129,United Kingdom,GB,52.623888149057066,-0.07266687262783753,TRUE
+mock_391,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-01-24 21:52:16.565124,Belgium,BE,50.64662221173094,3.666320013864028,TRUE
+mock_392,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-19 14:30:48.744824,Italy,IT,43.06751373132487,12.187367873030297,TRUE
+mock_393,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-09 07:01:14.328652,Netherlands,NL,52.223475639092364,7.066804377571646,TRUE
+mock_394,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-07-13 14:32:58.343658,Germany,DE,52.90411670901851,13.28360087959562,TRUE
+mock_395,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-16 13:36:38.847364,Sweden,SE,58.4732023951417,17.638615960257933,TRUE
+mock_396,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-24 17:25:11.531244,Italy,IT,42.03637877716737,11.445965428993985,TRUE
+mock_397,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-02-19 02:30:05.665717,Finland,FI,61.16053452871354,24.405305773675696,TRUE
+mock_398,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-10 04:35:26.101027,Portugal,PT,38.56927526818741,-9.201150944289342,TRUE
+mock_399,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-06-27 08:05:24.261803,Spain,ES,41.42598069049811,-5.329266480465994,TRUE
+mock_400,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-16 21:17:59.5175,United Kingdom,GB,53.681757110329016,1.271237380120489,TRUE
+mock_401,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-05-18 13:23:25.930281,United Kingdom,GB,52.25353937386474,0.017392444936626145,TRUE
+mock_402,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-02-15 16:26:31.643435,Italy,IT,41.701108770176354,14.258025234316115,TRUE
+mock_403,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-10-17 01:06:14.906825,Netherlands,NL,52.477183087765184,6.088523023269147,TRUE
+mock_404,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-24 16:02:37.115107,France,FR,48.55285524695861,3.9972641008667287,TRUE
+mock_405,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-26 07:18:02.80389,Belgium,BE,52.54293429396125,2.796922676823991,TRUE
+mock_406,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-05-02 03:12:10.744196,United Kingdom,GB,49.1329763046959,0.5955003660719135,TRUE
+mock_407,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-09-07 07:43:40.882492,Austria,AT,48.2647105913593,15.96581454284162,TRUE
+mock_408,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-25 11:54:12.15586,Germany,DE,52.58811024369378,13.343777060417857,TRUE
+mock_409,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-07 02:24:31.554635,United Kingdom,GB,51.67075866105012,-0.8193729656941254,TRUE
+mock_410,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-23 09:21:26.18725,France,FR,47.653744309894144,2.5581253918673994,TRUE
+mock_411,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-08-05 19:07:59.493584,United Kingdom,GB,51.67296923700621,0.012357782574849138,TRUE
+mock_412,European coffee consumption is booming but sustainability in the supply chain needs work,2024-02-18 18:20:53.466245,Spain,ES,40.55013105362115,-6.243801298157617,TRUE
+mock_413,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-05 22:40:31.065316,Germany,DE,53.50689770017088,14.422931706589646,TRUE
+mock_414,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-16 10:08:19.832178,Sweden,SE,59.71881422472717,18.285249486775914,TRUE
+mock_415,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-09-07 20:45:27.386769,United Kingdom,GB,52.392363421983966,-1.266233968246499,TRUE
+mock_416,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-04 17:37:51.78411,United Kingdom,GB,50.73399820626362,-1.421713403107762,TRUE
+mock_417,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-13 05:25:56.937495,Germany,DE,52.40047553611566,12.571706134043483,TRUE
+mock_418,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-03-03 20:41:04.66516,Norway,NO,60.053390263239976,8.899638093346503,TRUE
+mock_419,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-14 16:25:42.022542,France,FR,49.117773800482674,2.465319279816603,TRUE
+mock_420,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-25 08:52:22.088382,United Kingdom,GB,50.9449484290614,1.7028127459553926,TRUE
+mock_421,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-01 20:47:22.227083,United Kingdom,GB,52.683337536681705,0.13145790457792714,TRUE
+mock_422,European coffee consumption is booming but sustainability in the supply chain needs work,2024-09-17 14:48:20.403211,Italy,IT,41.41058638268578,13.13258568142859,TRUE
+mock_423,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-04 09:21:20.505748,Finland,FI,58.90855202051252,23.220152450557144,TRUE
+mock_424,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-07-27 23:05:12.934566,Denmark,DK,56.02199208847254,10.752959132028712,TRUE
+mock_425,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-03 02:29:22.313428,Spain,ES,40.93164435783159,-4.775719464297188,TRUE
+mock_426,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-18 16:10:02.293903,United Kingdom,GB,52.25530165679595,0.7652839756978649,TRUE
+mock_427,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-21 06:00:31.122623,Italy,IT,41.14299136183337,11.438597666376147,TRUE
+mock_428,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-24 18:38:52.164739,France,FR,48.701369240608884,2.970318230850263,TRUE
+mock_429,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-10-14 08:40:25.405426,Netherlands,NL,51.33725082516874,4.637514994184453,TRUE
+mock_430,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-07-23 18:46:48.938777,Italy,IT,42.575810993679134,12.960348178863917,TRUE
+mock_431,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-22 04:51:16.4524,Italy,IT,42.17815738595092,11.25305586770379,TRUE
+mock_432,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-21 21:40:30.996289,Spain,ES,41.131010069144885,-4.838790698284993,TRUE
+mock_433,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-01 13:06:39.034455,Italy,IT,42.386619642704545,12.375006855219857,TRUE
+mock_434,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-22 11:00:19.717026,United Kingdom,GB,51.01396160975641,-0.3504533232686893,TRUE
+mock_435,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-18 07:05:56.997165,Poland,PL,52.343726456697475,18.853523765697393,TRUE
+mock_436,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-30 01:22:10.379433,United Kingdom,GB,49.9732724644661,0.5445013053038057,TRUE
+mock_437,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-19 10:31:42.969266,France,FR,49.302357006151276,-0.03963528411140782,TRUE
+mock_438,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-05-13 11:53:12.398288,Germany,DE,53.2751193227828,12.90171864613614,TRUE
+mock_439,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-04-01 07:59:35.335351,United Kingdom,GB,50.799410299381336,-0.033844395288378515,TRUE
+mock_440,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-08 11:49:50.597371,Italy,IT,40.1911803690416,11.657600337093474,TRUE
+mock_441,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-03 04:34:11.770672,Netherlands,NL,51.18173793473199,3.2153931609112303,TRUE
+mock_442,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-05-21 11:31:01.653384,Poland,PL,51.30950543369114,20.521411282928977,TRUE
+mock_443,European coffee consumption is booming but sustainability in the supply chain needs work,2024-08-01 23:02:19.683947,France,FR,49.892787116428714,2.1674938405222335,TRUE
+mock_444,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-18 07:50:51.451128,Ireland,IE,53.30278554805039,-7.308894141528079,TRUE
+mock_445,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-25 03:05:31.058615,Germany,DE,51.509764331205545,11.771308399501093,TRUE
+mock_446,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-24 10:40:47.008641,Italy,IT,42.344559295118415,11.066474620698456,TRUE
+mock_447,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-05-12 23:57:32.125063,United Kingdom,GB,49.753480520512085,-0.7341853351453448,TRUE
+mock_448,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-17 06:25:51.601924,Denmark,DK,55.502380434322205,12.056847735934861,TRUE
+mock_449,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-02 08:04:55.207183,Netherlands,NL,53.29028554206916,6.603382231793608,TRUE
+mock_450,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-04-19 04:35:47.252753,United Kingdom,GB,51.22666141039273,-1.6428173734188596,TRUE
+mock_451,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-11-12 09:03:54.088209,France,FR,49.944350673712854,2.7573787272343737,TRUE
+mock_452,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-05 15:37:18.233183,France,FR,50.336259097152634,1.799037678682671,TRUE
+mock_453,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-04-29 14:28:56.308157,Netherlands,NL,51.46573181802124,5.011433704945284,TRUE
+mock_454,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-12-30 17:25:34.6694,Netherlands,NL,51.478169900014386,4.103698557068535,TRUE
+mock_455,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-20 23:41:45.398816,France,FR,48.16843562452348,3.2633928674090673,TRUE
+mock_456,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-09-08 06:01:44.462218,Germany,DE,52.922982426026906,11.356300825526537,TRUE
+mock_457,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-01-25 10:10:32.808564,Germany,DE,53.16806314163887,13.584688487077813,TRUE
+mock_458,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-01 19:52:06.719981,Netherlands,NL,53.367309579273225,4.931290599905636,TRUE
+mock_459,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-02-18 09:55:45.648942,Portugal,PT,39.739578036288655,-7.83296394509787,TRUE
+mock_460,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-30 10:59:38.112806,Ireland,IE,54.16058584336791,-6.469360537220606,TRUE
+mock_461,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-14 22:11:25.400031,France,FR,49.651840818811436,2.895915667247644,TRUE
+mock_462,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-04-18 21:24:53.248348,United Kingdom,GB,51.63069975472541,0.37956074556420083,TRUE
+mock_463,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-03 08:22:10.047617,Denmark,DK,54.98948915308769,11.823704699177414,TRUE
+mock_464,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-02 08:31:13.074605,United Kingdom,GB,50.91907121379492,-0.2005153177450414,TRUE
+mock_465,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-25 10:01:38.17453,United Kingdom,GB,51.82607760449099,-0.2603454400114229,TRUE
+mock_466,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-18 05:56:31.218473,Netherlands,NL,53.746829071401436,6.243524626569029,TRUE
+mock_467,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-07 18:28:38.614215,France,FR,50.264783858851686,2.5870651670991247,TRUE
+mock_468,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-20 12:52:35.037544,Germany,DE,50.959066639339134,13.748722659029427,TRUE
+mock_469,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-24 08:54:12.084788,France,FR,48.23280158781723,5.112321702102364,TRUE
+mock_470,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-03-11 22:21:01.863108,Belgium,BE,51.93530601306655,4.89955773486368,TRUE
+mock_471,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-26 03:07:44.130655,France,FR,48.04871222798461,2.734977293443138,TRUE
+mock_472,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-06 11:46:16.424222,United Kingdom,GB,50.209138022015644,0.5380191505713454,TRUE
+mock_473,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-24 08:39:05.293368,Portugal,PT,39.17984887095795,-7.242349313992228,TRUE
+mock_474,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-09 11:07:30.068665,Finland,FI,61.586371764309646,26.153785960726925,TRUE
+mock_475,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-19 04:10:06.682373,Italy,IT,43.44760364996618,12.906123414327755,TRUE
+mock_476,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-10-08 19:21:21.571329,Italy,IT,42.326256460536634,11.766856394877065,TRUE
+mock_477,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-02 20:53:46.568813,Spain,ES,40.975732604815825,-3.271537539507762,TRUE
+mock_478,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-26 23:58:45.196926,Portugal,PT,39.14807470860415,-8.930189584147374,TRUE
+mock_479,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-19 16:39:17.679333,United Kingdom,GB,51.48553045467202,-2.3035496125343795,TRUE
+mock_480,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-10 16:06:16.182275,Norway,NO,57.202608733959586,8.950762744327394,TRUE
+mock_481,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-26 20:49:12.112667,Germany,DE,53.108562595807804,11.246740562698559,TRUE
+mock_482,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-06-14 18:58:04.598641,Spain,ES,40.08701851820543,-2.002582109849513,TRUE
+mock_483,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-06 06:25:12.019681,Ireland,IE,54.107920979049474,-5.45799452988683,TRUE
+mock_484,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-26 10:32:16.933818,United Kingdom,GB,50.998421482341,-2.9205464646391355,TRUE
+mock_485,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-01-10 06:57:23.738251,Portugal,PT,37.39233810439851,-8.539562096687062,TRUE
+mock_486,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-22 19:05:58.156402,Italy,IT,42.89619412162438,12.576598325772215,TRUE
+mock_487,European coffee consumption is booming but sustainability in the supply chain needs work,2024-10-17 04:57:26.29276,Portugal,PT,38.845101957244324,-9.407512530184329,TRUE
+mock_488,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-08-07 21:07:47.45536,Germany,DE,55.29624341118848,12.506573554095956,TRUE
+mock_489,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-01-23 08:14:14.689443,United Kingdom,GB,52.23247353066153,-1.622830331853072,TRUE
+mock_490,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-05-14 06:57:21.484391,United Kingdom,GB,52.338805213940994,0.9351536095169489,TRUE
+mock_491,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-18 06:53:02.453891,Finland,FI,60.81105994954789,24.30767839372358,TRUE
+mock_492,European coffee consumption is booming but sustainability in the supply chain needs work,2024-05-08 01:38:44.554306,Italy,IT,41.41729009851248,12.341279182051963,TRUE
+mock_493,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-22 22:07:31.099914,Ireland,IE,53.003656269837776,-5.495806279294408,TRUE
+mock_494,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-11-07 14:55:42.864581,France,FR,49.747860750666916,2.9420003323971216,TRUE
+mock_495,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-03 21:37:36.44274,Italy,IT,42.74408842387151,12.027908075639296,TRUE
+mock_496,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-19 18:56:11.122129,Germany,DE,52.966377728896255,12.751268699348767,TRUE
+mock_497,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-10-23 10:47:45.346404,Norway,NO,59.11074605156837,11.111341098281498,TRUE
+mock_498,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-12-28 10:04:05.375884,Germany,DE,53.847697449395184,11.98606548678937,TRUE
+mock_499,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-11 03:08:04.273193,United Kingdom,GB,50.406527163453895,0.26736617425840525,TRUE
+mock_500,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-09-04 20:06:44.300757,United Kingdom,GB,51.15342852111111,0.10817747494442415,TRUE
+mock_501,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-01-22 21:49:02.408905,United Kingdom,GB,53.36004679497211,0.20069368060425255,TRUE
+mock_502,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-06-17 17:01:17.091428,United Kingdom,GB,51.919297744920875,-0.43350885899321734,TRUE
+mock_503,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-11-23 21:12:27.659674,Italy,IT,42.67658673312687,10.430317118884588,TRUE
+mock_504,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-07 09:01:10.877467,Denmark,DK,56.0015787177221,10.191954067373175,TRUE
+mock_505,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-02-09 04:09:20.74959,United Kingdom,GB,50.703253282766276,-1.6501699965621508,TRUE
+mock_506,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-06-26 15:31:08.408252,Portugal,PT,38.22201366956157,-8.660994125820045,TRUE
+mock_507,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-04 16:39:38.87105,Spain,ES,40.53220113846412,-3.8826439046901173,TRUE
+mock_508,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-12-15 10:16:52.06219,United Kingdom,GB,49.15721825713795,-0.9809129080914505,TRUE
+mock_509,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-01 07:40:00.198535,Portugal,PT,38.021668618737166,-10.038366468377909,TRUE
+mock_510,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-05-28 09:58:47.723794,Germany,DE,53.13886760977876,14.061880441775251,TRUE
+mock_511,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-18 02:35:42.156529,United Kingdom,GB,51.26123520962783,-2.0330091813160815,TRUE
+mock_512,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-12-15 00:43:13.20412,Norway,NO,59.6731108984437,11.697811719708533,TRUE
+mock_513,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-02 13:03:49.868706,Germany,DE,53.195615445319014,13.939155213485106,TRUE
+mock_514,European coffee consumption is booming but sustainability in the supply chain needs work,2024-05-30 07:54:52.723849,Germany,DE,52.06451577224082,12.355924975467614,TRUE
+mock_515,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-19 08:58:56.685135,Italy,IT,42.40304258830208,12.38270248237047,TRUE
+mock_516,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-07-31 21:39:51.656591,France,FR,47.762132433643686,3.3717202564595183,TRUE
+mock_517,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-13 23:04:24.354685,United Kingdom,GB,50.517989893332576,1.5210981143195028,TRUE
+mock_518,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-28 14:36:10.42081,Germany,DE,51.160715587404454,15.186764473170202,TRUE
+mock_519,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-09 20:08:04.315089,France,FR,48.9675187857959,2.7452806554167215,TRUE
+mock_520,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-07-05 10:55:20.053051,Spain,ES,40.23509946882368,-3.9573678922150832,TRUE
+mock_521,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-19 01:24:10.19383,Denmark,DK,56.85349731222565,13.146593507926973,TRUE
+mock_522,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-27 16:49:07.078127,Poland,PL,52.16657431729171,20.69026666769272,TRUE
+mock_523,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-15 21:40:05.377498,Ireland,IE,54.38300358221102,-7.40350850252494,TRUE
+mock_524,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-01 08:21:29.8936,United Kingdom,GB,53.05618022073827,0.9129721793575286,TRUE
+mock_525,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-06-25 09:25:43.839102,Netherlands,NL,52.007249413033485,5.733590531075961,TRUE
+mock_526,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-02-23 00:36:28.82472,Netherlands,NL,52.710751259955686,6.413204497176764,TRUE
+mock_527,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-03-09 13:57:07.760392,United Kingdom,GB,50.82408539265121,1.899871147205206,TRUE
+mock_528,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-07-14 13:32:02.71933,Poland,PL,52.79039229429687,22.76622952570721,TRUE
+mock_529,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-11-08 19:50:18.712862,Italy,IT,41.03619173497291,13.447178846101316,TRUE
+mock_530,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-13 12:00:40.72416,Germany,DE,51.678820899005096,13.356254874579989,TRUE
+mock_531,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-03-20 04:22:51.436503,Ireland,IE,53.531034689263095,-6.309539931971003,TRUE
+mock_532,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-08-24 06:20:32.397258,Germany,DE,52.57264905542974,12.904564473149717,TRUE
+mock_533,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-02 17:18:06.622886,Denmark,DK,55.91009854136898,11.662726562015902,TRUE
+mock_534,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-11 22:40:01.623874,Netherlands,NL,52.455467930233,4.431888657505743,TRUE
+mock_535,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-17 05:59:33.779744,France,FR,48.47708494491454,3.036605146411109,TRUE
+mock_536,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-01 00:39:55.063553,United Kingdom,GB,51.395838268384985,0.3616124243998906,TRUE
+mock_537,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-26 05:14:18.67019,United Kingdom,GB,52.796126995484656,-1.546787979782048,TRUE
+mock_538,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-02-27 04:08:35.538751,Italy,IT,41.885683901341224,13.937421464016845,TRUE
+mock_539,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-12-22 17:41:34.542246,Italy,IT,40.84520848084056,14.049369519988224,TRUE
+mock_540,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-25 13:40:24.746782,Germany,DE,51.82435187153498,15.179685923024628,TRUE
+mock_541,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-12 14:42:48.320804,Sweden,SE,58.418548102007115,16.63168571702609,TRUE
+mock_542,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-23 03:16:17.103873,Finland,FI,59.479927885594,24.504190438754765,TRUE
+mock_543,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-16 15:47:29.867463,Italy,IT,40.891132864142016,12.008502960545247,TRUE
+mock_544,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-23 23:47:32.365029,United Kingdom,GB,49.399320878013675,-0.6413976619146466,TRUE
+mock_545,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-15 22:05:11.26245,Spain,ES,40.93525259935246,-4.3776387420737715,TRUE
+mock_546,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-16 16:21:55.780076,Norway,NO,60.42803320738462,10.127987598603958,TRUE
+mock_547,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-10 02:32:46.853034,Netherlands,NL,52.19951965168711,3.735330319609355,TRUE
+mock_548,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-09 19:52:55.084756,Germany,DE,51.92096214643694,12.724611744591884,TRUE
+mock_549,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-08-29 09:31:40.263239,France,FR,48.250254694136466,1.9015562680421372,TRUE
+mock_550,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-23 20:20:31.50124,Germany,DE,52.81898746881473,13.632380131699156,TRUE
+mock_551,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-19 06:31:03.678304,Portugal,PT,38.8812508591035,-8.373228572473336,TRUE
+mock_552,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-19 05:22:20.109582,Germany,DE,52.83731486380257,14.54944831931001,TRUE
+mock_553,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-20 06:00:56.030495,Netherlands,NL,52.403870354979276,3.939017873218724,TRUE
+mock_554,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-24 21:18:13.993322,United Kingdom,GB,51.99518713207721,-0.048941613273709425,TRUE
+mock_555,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-14 09:52:19.243101,United Kingdom,GB,51.84490715558874,2.702841034416089,TRUE
+mock_556,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-10 21:27:14.875844,United Kingdom,GB,51.94664989614978,-0.6542409469863818,TRUE
+mock_557,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-28 00:40:40.583181,Portugal,PT,39.09676902453761,-8.211484112751211,TRUE
+mock_558,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-10-25 05:37:17.80075,Germany,DE,53.829508592756625,12.561986407181278,TRUE
+mock_559,European coffee consumption is booming but sustainability in the supply chain needs work,2024-11-18 18:09:19.651179,Belgium,BE,49.9559723102364,5.678442681746749,TRUE
+mock_560,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-14 11:46:27.374434,Norway,NO,61.106659749424004,11.454620185606515,TRUE
+mock_561,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-01-12 01:31:57.354684,Denmark,DK,55.43263307467594,11.498148815708154,TRUE
+mock_562,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-01-27 17:15:55.132672,Germany,DE,52.448015404945245,14.630229612411283,TRUE
+mock_563,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-24 07:34:45.968998,United Kingdom,GB,51.564865230970724,1.2508860834873572,TRUE
+mock_564,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-04-06 22:08:40.303441,United Kingdom,GB,51.141428163568925,0.9593604619980868,TRUE
+mock_565,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-07-14 11:54:51.877793,Germany,DE,50.456954439787225,10.078305666979173,TRUE
+mock_566,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-01-10 17:40:25.468129,France,FR,48.64965397190479,2.4725918946275165,TRUE
+mock_567,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-12 21:47:29.79102,Sweden,SE,59.33310652163224,19.923859750182164,TRUE
+mock_568,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-28 00:25:59.947825,Germany,DE,51.109817550929904,13.19442070637472,TRUE
+mock_569,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-05 02:51:51.114561,Italy,IT,42.3399517277587,11.710226000818459,TRUE
+mock_570,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-22 13:57:05.739301,Norway,NO,59.42218104592534,10.614846477496336,TRUE
+mock_571,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-01-01 05:13:47.994436,Netherlands,NL,53.558193444829236,2.040352820395956,TRUE
+mock_572,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-01 23:27:28.42859,Germany,DE,52.71189449141141,12.034043490462077,TRUE
+mock_573,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-12-29 08:41:47.118702,Austria,AT,47.568973753774024,16.295293360624953,TRUE
+mock_574,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-08-29 07:05:20.23623,United Kingdom,GB,51.63418577653722,0.9023920647730429,TRUE
+mock_575,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-22 18:16:41.633392,Germany,DE,52.70606648656101,13.654533041829808,TRUE
+mock_576,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-20 00:04:43.148635,Netherlands,NL,53.12963789396024,5.6696155616854655,TRUE
+mock_577,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-12-04 19:33:28.122267,United Kingdom,GB,51.3745020939561,-1.3385211613430772,TRUE
+mock_578,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-11-29 09:41:59.003054,United Kingdom,GB,49.87329943324233,1.6829247845037247,TRUE
+mock_579,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-26 09:30:08.042456,Spain,ES,39.36026734153714,-2.2714285032665096,TRUE
+mock_580,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-06-10 13:28:00.058285,Spain,ES,39.71419947205677,-2.9593279222282773,TRUE
+mock_581,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-29 08:33:36.329732,Germany,DE,52.84101223562895,13.192474010640955,TRUE
+mock_582,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-11-26 15:23:51.231424,Portugal,PT,38.4721309895322,-8.06610347109163,TRUE
+mock_583,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-28 06:41:31.331769,Netherlands,NL,51.908505166424106,4.155896890546671,TRUE
+mock_584,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-09-29 20:00:32.135003,Netherlands,NL,51.72408733427401,3.8461443432779148,TRUE
+mock_585,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-06-22 01:11:39.524195,Germany,DE,52.6229559657751,10.725685823748554,TRUE
+mock_586,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-29 05:17:59.101865,Italy,IT,41.218854179377445,12.731915870321002,TRUE
+mock_587,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-06-05 13:11:26.512075,Austria,AT,47.881663141645696,13.62481193967163,TRUE
+mock_588,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-10-25 11:15:01.718397,Austria,AT,47.44801821897524,16.370799449437122,TRUE
+mock_589,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-27 02:20:56.001288,Italy,IT,40.78939700686446,13.029608707086863,TRUE
+mock_590,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-07 14:42:02.894155,Sweden,SE,60.064147671090716,19.04749210452348,TRUE
+mock_591,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-06-12 04:07:33.803399,Germany,DE,51.44600362397409,14.626183552019269,TRUE
+mock_592,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-29 20:22:02.710964,Ireland,IE,53.35842331692769,-5.4616866085554845,TRUE
+mock_593,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-06-25 07:44:22.910407,France,FR,48.4454513211453,1.2685065725976905,TRUE
+mock_594,European coffee consumption is booming but sustainability in the supply chain needs work,2024-10-15 18:02:12.802337,Austria,AT,47.35323946497294,17.46889877164277,TRUE
+mock_595,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-18 17:12:22.556879,Denmark,DK,55.90745083073366,12.675929696984884,TRUE
+mock_596,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-02-05 06:28:30.156405,Italy,IT,42.198507603615326,10.262406733328033,TRUE
+mock_597,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-22 03:16:33.953913,Italy,IT,42.911733415427314,12.36423577889216,TRUE
+mock_598,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-03-07 19:57:41.601851,France,FR,49.16017999685461,0.15993634894980824,TRUE
+mock_599,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-12-20 11:22:40.587142,United Kingdom,GB,51.389226144393355,-1.3641885288683948,TRUE
+mock_600,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-30 21:36:08.98383,Italy,IT,43.981975117823836,11.756774387234403,TRUE
+mock_601,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-09-27 23:29:33.215682,Italy,IT,41.37977245720967,11.795673708177032,TRUE
+mock_602,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-17 13:05:21.803954,Germany,DE,51.69745341734931,14.512370878332307,TRUE
+mock_603,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-02-29 03:07:27.801514,Norway,NO,59.471908869700414,10.721512985595,TRUE
+mock_604,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-23 00:29:14.26727,Germany,DE,52.41166834657857,12.275465889469803,TRUE
+mock_605,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-02-20 07:51:18.657518,Italy,IT,42.380344135450855,11.7393686794863,TRUE
+mock_606,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-13 02:37:58.859429,Italy,IT,42.23267604767894,11.809730856781918,TRUE
+mock_607,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-30 23:03:48.970125,Norway,NO,59.81539948265841,11.025865250111202,TRUE
+mock_608,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-08-05 16:49:34.896504,United Kingdom,GB,50.8147499694031,0.5475871693555179,TRUE
+mock_609,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-07-17 18:30:50.010384,Italy,IT,42.80186186745773,11.994939116411587,TRUE
+mock_610,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-01-14 23:04:20.817871,Italy,IT,42.63302529715876,12.092640128027497,TRUE
+mock_611,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-28 15:02:17.396519,Italy,IT,41.32049632582051,13.121696466035907,TRUE
+mock_612,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-12-26 13:04:59.579774,Italy,IT,42.44942327005979,11.45673485478413,TRUE
+mock_613,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-12 20:45:38.182908,Netherlands,NL,52.76006863331569,4.7071949030142095,TRUE
+mock_614,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-04 02:03:44.972239,France,FR,49.73617728488403,2.1288598560739507,TRUE
+mock_615,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-14 19:11:34.900884,Ireland,IE,53.419703227549945,-7.118253161413045,TRUE
+mock_616,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-14 06:41:03.162218,Poland,PL,51.28714627743945,20.208239314419583,TRUE
+mock_617,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-07-07 17:31:04.151741,United Kingdom,GB,52.14199952193572,-0.46888652849613033,TRUE
+mock_618,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-05-14 02:12:40.274586,Germany,DE,51.91702677522444,12.341687059752779,TRUE
+mock_619,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-11-09 21:00:40.628386,Italy,IT,42.32176742858278,12.385585809501888,TRUE
+mock_620,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-24 09:37:41.510103,France,FR,50.23878301776985,0.7688367523110737,TRUE
+mock_621,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-16 05:48:46.585226,Italy,IT,40.764937583783336,12.950701980757767,TRUE
+mock_622,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-18 00:57:19.785466,Spain,ES,41.64952864093512,-4.263076447115627,TRUE
+mock_623,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-13 04:48:20.766711,Germany,DE,53.58252880713446,14.358719844343053,TRUE
+mock_624,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-07-18 10:32:36.109272,Sweden,SE,58.87704257864675,18.61154583911046,TRUE
+mock_625,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-03-30 07:40:17.11003,United Kingdom,GB,51.298981779616575,-0.7145584158322067,TRUE
+mock_626,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-22 21:02:04.729981,Netherlands,NL,51.851321850966,4.482981355629121,TRUE
+mock_627,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-03-08 12:51:53.27732,Germany,DE,52.043705878196704,14.131271295664368,TRUE
+mock_628,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-07 21:48:42.693763,France,FR,49.363705105236924,3.1825571816440386,TRUE
+mock_629,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-02-11 07:47:48.111366,Sweden,SE,58.58083279579831,18.67205027280799,TRUE
+mock_630,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-04-06 20:04:09.459936,Italy,IT,41.74773608966977,12.893942920138343,TRUE
+mock_631,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-22 04:03:54.213462,France,FR,48.78487729812283,0.16247902969565642,TRUE
+mock_632,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-01-22 11:45:59.995826,Germany,DE,52.42274187896996,13.543275705614478,TRUE
+mock_633,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-02-17 01:28:52.214148,Germany,DE,52.645157372577884,11.698045553580178,TRUE
+mock_634,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-10 05:09:33.666908,Germany,DE,53.77725936734905,13.491241253184652,TRUE
+mock_635,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-12 01:03:13.201695,Spain,ES,40.038934608085235,-4.492999890653021,TRUE
+mock_636,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-19 19:03:37.252238,Sweden,SE,58.66409582015934,17.97339274472984,TRUE
+mock_637,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-05-21 00:59:48.471966,United Kingdom,GB,52.13382747972184,-1.5161030651043095,TRUE
+mock_638,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-07 20:14:08.005412,Italy,IT,42.20437783980882,12.302768976244716,TRUE
+mock_639,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-10 20:14:06.607532,Ireland,IE,53.48863038639396,-4.376671070818881,TRUE
+mock_640,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-22 21:57:39.675139,Sweden,SE,59.77279061081632,20.290198093808375,TRUE
+mock_641,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-08-04 10:19:13.659249,Germany,DE,51.37045583833689,10.413632179815762,TRUE
+mock_642,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-08 17:51:05.101051,United Kingdom,GB,52.35063663383289,-2.08518670046768,TRUE
+mock_643,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-29 09:42:54.596999,Spain,ES,40.76313430311807,-5.4050263376463,TRUE
+mock_644,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-17 23:24:47.80691,Ireland,IE,54.06105038161583,-7.731555879502208,TRUE
+mock_645,European coffee consumption is booming but sustainability in the supply chain needs work,2024-02-07 04:17:02.708702,Italy,IT,41.421185829278784,14.994920959247064,TRUE
+mock_646,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-05-02 21:39:16.800715,Netherlands,NL,50.92644795972309,6.118643224818746,TRUE
+mock_647,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-17 08:05:04.151995,Italy,IT,41.51232837348165,12.368464620589954,TRUE
+mock_648,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-26 11:51:17.119553,France,FR,48.17452254798128,3.477822657235175,TRUE
+mock_649,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-03 19:34:17.733947,Finland,FI,61.978209957923504,27.713616648172746,TRUE
+mock_650,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-14 02:27:57.410509,Poland,PL,51.86922673889906,21.764507908564273,TRUE
+mock_651,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-02-01 09:11:24.318417,Germany,DE,52.327460922636284,15.53064385141639,TRUE
+mock_652,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-11-20 15:25:32.669639,Finland,FI,61.050382816056924,23.622998143036238,TRUE
+mock_653,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-08-14 06:12:38.515701,Belgium,BE,51.29627722126419,3.104812887494546,TRUE
+mock_654,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-12-29 09:17:12.235419,Netherlands,NL,52.9384533215032,6.181539830550912,TRUE
+mock_655,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-22 17:57:16.225109,Italy,IT,44.00696765035866,13.570103829637112,TRUE
+mock_656,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-03 18:29:46.78713,Italy,IT,42.03289151893838,13.54411581192765,TRUE
+mock_657,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-12 12:20:36.182814,Germany,DE,54.02414043002741,13.982914957842272,TRUE
+mock_658,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-06-11 12:05:16.373862,United Kingdom,GB,51.70297472105047,-0.6653124314152618,TRUE
+mock_659,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-01 02:09:01.051152,Italy,IT,40.73278242619656,13.639555992584654,TRUE
+mock_660,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-01 02:40:21.437714,Germany,DE,50.718201406975716,15.617273109550485,TRUE
+mock_661,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-21 17:13:02.561711,Norway,NO,60.41974684093418,12.28848891464488,TRUE
+mock_662,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-19 10:00:23.137681,Portugal,PT,37.90060010818516,-10.75697706202149,TRUE
+mock_663,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-11-04 03:58:10.397181,France,FR,48.933577906941046,2.869612252749778,TRUE
+mock_664,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-15 12:27:57.546765,Denmark,DK,57.12163496003203,12.614815629585234,TRUE
+mock_665,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-11-22 03:45:31.703691,Germany,DE,52.77774614186976,13.504519924742873,TRUE
+mock_666,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-15 12:31:39.950568,Norway,NO,59.67032204308017,10.581158167484011,TRUE
+mock_667,European coffee consumption is booming but sustainability in the supply chain needs work,2024-08-25 00:53:21.593035,Spain,ES,38.86033867831271,-5.21880431899038,TRUE
+mock_668,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-07-27 18:42:34.183591,France,FR,48.25948071252807,2.697540695528887,TRUE
+mock_669,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-02-04 14:44:48.390199,Ireland,IE,52.839505623418695,-4.577925642816026,TRUE
+mock_670,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-08-23 19:44:37.790692,Germany,DE,53.04736458613628,15.363878883515227,TRUE
+mock_671,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-05 09:37:15.914467,Italy,IT,42.28676587809371,13.075918674623225,TRUE
+mock_672,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-04 23:55:52.179276,Norway,NO,59.9111707269659,9.916420906490572,TRUE
+mock_673,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-25 11:57:10.327776,United Kingdom,GB,51.6441949877001,-0.7996199432963215,TRUE
+mock_674,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-29 04:09:08.510993,France,FR,48.6695014013532,1.5662816216583368,TRUE
+mock_675,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-24 00:40:40.931459,United Kingdom,GB,51.52418177831218,0.6240200523330701,TRUE
+mock_676,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-16 08:30:52.045953,United Kingdom,GB,51.71733928682359,-0.38291600722877317,TRUE
+mock_677,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-22 21:47:42.74613,Germany,DE,52.859326741930744,16.885059309948065,TRUE
+mock_678,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-05-18 02:34:45.400591,Germany,DE,53.96210212674431,13.0780504648215,TRUE
+mock_679,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-07 05:18:31.31032,Germany,DE,51.61038103129295,13.57771141808365,TRUE
+mock_680,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-29 09:43:23.121226,France,FR,50.07984594526697,2.051846020597659,TRUE
+mock_681,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-17 01:17:21.673858,Italy,IT,42.43720996811551,11.728927833858144,TRUE
+mock_682,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-31 10:33:29.193997,Belgium,BE,49.56373716502845,5.417086188661482,TRUE
+mock_683,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-04 15:38:17.441572,Sweden,SE,59.078362217607115,17.466913448319215,TRUE
+mock_684,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-02-14 05:29:10.686394,Finland,FI,59.69652560642242,25.00284490852976,TRUE
+mock_685,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-15 16:10:43.485251,France,FR,48.1535996387042,1.9617437197384608,TRUE
+mock_686,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-09 17:09:11.959663,Denmark,DK,54.469690812617394,9.205830417135243,TRUE
+mock_687,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-11 12:40:08.823587,United Kingdom,GB,51.10471836032004,0.6811163795932378,TRUE
+mock_688,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-30 12:34:49.719866,United Kingdom,GB,51.15171198778384,0.08931100533600031,TRUE
+mock_689,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-02-25 19:26:53.971478,Sweden,SE,59.04116425897582,17.075875572801557,TRUE
+mock_690,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-26 11:44:01.140747,Spain,ES,38.75110910486705,-2.064279896831115,TRUE
+mock_691,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-06 19:09:22.556722,Spain,ES,40.75320204407643,-5.215475405405387,TRUE
+mock_692,European coffee consumption is booming but sustainability in the supply chain needs work,2024-03-06 07:01:33.109439,United Kingdom,GB,52.097080997253094,-2.2335358548648854,TRUE
+mock_693,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-06 03:47:08.825916,Belgium,BE,51.43171429905975,3.5756964259093302,TRUE
+mock_694,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-02-17 11:09:58.049777,Ireland,IE,53.91659240563163,-7.621202626751909,TRUE
+mock_695,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-24 19:34:23.009235,United Kingdom,GB,51.660405054264295,0.8476127620731773,TRUE
+mock_696,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-06-30 15:36:29.462958,Sweden,SE,60.474680025342195,18.203156525140322,TRUE
+mock_697,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-11-16 21:02:13.028367,Italy,IT,41.1988356128474,12.055926268904717,TRUE
+mock_698,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-08 03:43:00.271359,Poland,PL,51.21871624502312,21.011203640451694,TRUE
+mock_699,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-15 01:36:30.601683,Portugal,PT,38.97027033597966,-10.241271510007387,TRUE
+mock_700,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-01 06:04:31.630955,Italy,IT,42.25265926980332,12.718061253677366,TRUE
+mock_701,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-07-24 16:09:04.63272,Norway,NO,59.30278683861059,11.02840781283943,TRUE
+mock_702,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-04-15 13:42:09.315718,Italy,IT,41.929284896345536,12.413913476722257,TRUE
+mock_703,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-08-05 11:07:37.705034,Germany,DE,52.75864769936244,13.396577947939287,TRUE
+mock_704,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-04-06 16:31:39.339694,Sweden,SE,59.60374082592127,16.77013724570503,TRUE
+mock_705,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-06-03 13:22:02.797941,Norway,NO,60.60124519663629,11.922230120848315,TRUE
+mock_706,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-21 04:55:05.350153,Sweden,SE,60.04671039005571,16.316992657915208,TRUE
+mock_707,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-07-24 14:42:57.153607,Germany,DE,50.556953981854065,16.07425027811181,TRUE
+mock_708,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-03 10:07:14.876465,Germany,DE,53.88239521873693,15.348962267045355,TRUE
+mock_709,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-15 10:27:12.294492,France,FR,49.264802117021766,2.923717550304002,TRUE
+mock_710,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-11-12 07:06:06.306489,Spain,ES,39.943711723403474,-5.3224343641143985,TRUE
+mock_711,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-19 04:35:51.192603,Belgium,BE,49.90830047825762,4.911348593154609,TRUE
+mock_712,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-12-16 16:57:28.847202,Belgium,BE,51.524051412451115,2.404174897751992,TRUE
+mock_713,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-07 07:02:13.84738,France,FR,49.162476812387304,1.9760676538028004,TRUE
+mock_714,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-22 20:51:55.387058,Sweden,SE,60.162471968038254,19.048949151728653,TRUE
+mock_715,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-21 04:02:16.437428,Denmark,DK,55.651747557038,13.608730366527599,TRUE
+mock_716,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-06-19 15:22:33.797123,Sweden,SE,59.1051849904295,18.139563381820558,TRUE
+mock_717,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-05-18 09:43:12.238323,France,FR,50.69313804855062,2.014203495381745,TRUE
+mock_718,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-07-22 20:49:14.259145,Germany,DE,50.87120562331533,13.716262743380982,TRUE
+mock_719,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-29 09:00:56.997921,United Kingdom,GB,51.81273157206627,-2.010142208878254,TRUE
+mock_720,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-08-21 01:44:13.065701,Netherlands,NL,52.70785067431972,4.448517917383678,TRUE
+mock_721,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-03-02 02:01:34.857717,Germany,DE,52.85095647963312,15.57503257989245,TRUE
+mock_722,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-14 07:43:34.096288,Spain,ES,40.846512721637254,-5.785719619141469,TRUE
+mock_723,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-13 14:33:59.079257,United Kingdom,GB,51.278874893618045,1.8549333808943662,TRUE
+mock_724,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-09-08 10:30:49.717534,France,FR,49.833030463185786,2.9337265297862087,TRUE
+mock_725,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-29 11:16:01.343663,Germany,DE,50.53657821205009,12.967466976082935,TRUE
+mock_726,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-17 19:01:48.766908,Denmark,DK,55.05554699243635,15.28514026873418,TRUE
+mock_727,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-30 01:31:52.299089,France,FR,48.80468435950398,2.251760459030045,TRUE
+mock_728,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-10-29 08:13:35.916771,France,FR,49.03057298731103,4.572950397876798,TRUE
+mock_729,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-04-24 20:54:59.103362,France,FR,49.22518360621033,2.3297655799251964,TRUE
+mock_730,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-11-16 11:57:24.742584,Spain,ES,40.911471996515445,-3.035889516279466,TRUE
+mock_731,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-10 01:45:21.407314,France,FR,47.69318589010212,1.6107788654693382,TRUE
+mock_732,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-05-02 22:30:54.481861,Finland,FI,60.206136483517625,23.885995592272597,TRUE
+mock_733,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-10-22 20:52:43.453706,Finland,FI,60.619334417600314,22.59948947044622,TRUE
+mock_734,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-08-18 07:53:22.248882,Portugal,PT,39.76106869725663,-9.846482435558997,TRUE
+mock_735,European coffee consumption is booming but sustainability in the supply chain needs work,2024-04-12 18:21:41.066993,United Kingdom,GB,51.40914581245395,0.7725746797822908,TRUE
+mock_736,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-16 01:28:36.937827,Italy,IT,43.17931958271748,11.177380036105578,TRUE
+mock_737,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-05-24 08:52:08.978113,France,FR,48.674777520857454,0.9086446749759727,TRUE
+mock_738,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-06 03:31:15.264763,Netherlands,NL,52.36008148887159,4.373313232296737,TRUE
+mock_739,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-10 20:50:53.287978,Netherlands,NL,52.5281713018569,5.090961048116264,TRUE
+mock_740,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-07 09:38:53.13828,Ireland,IE,52.89809555007574,-6.793520822639624,TRUE
+mock_741,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-09-30 06:53:01.899016,Poland,PL,52.77275043902095,22.45484141469724,TRUE
+mock_742,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-21 16:53:35.469651,Spain,ES,39.32337015746943,-3.348841088905807,TRUE
+mock_743,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-14 04:25:33.166283,Italy,IT,41.89548514775828,12.456749046761164,TRUE
+mock_744,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-08 20:45:02.169746,Poland,PL,51.76756596020838,19.67686067692058,TRUE
+mock_745,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-07-21 10:13:50.393531,Portugal,PT,38.26234100732026,-10.222768344338883,TRUE
+mock_746,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-20 16:45:24.45264,France,FR,49.82115630963555,2.853004792184364,TRUE
+mock_747,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-22 17:15:50.150301,United Kingdom,GB,52.34177574555673,-0.4988361551327487,TRUE
+mock_748,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-10-16 22:18:00.637295,Norway,NO,61.17842122296212,12.127395922586933,TRUE
+mock_749,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-10-15 17:49:39.390914,Poland,PL,51.98896256551323,19.039567674178645,TRUE
+mock_750,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-02-08 17:04:12.566537,France,FR,48.92592063003753,2.7022313607144466,TRUE
+mock_751,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-07-16 23:06:09.123881,Germany,DE,51.25873335385127,12.77041106601183,TRUE
+mock_752,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-22 01:15:47.076221,United Kingdom,GB,51.189456455980384,1.656045290362646,TRUE
+mock_753,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-12 21:26:54.741775,France,FR,50.311318497744104,2.8126136503838977,TRUE
+mock_754,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-03-07 08:02:47.29297,Germany,DE,52.166777817949026,12.169844215788382,TRUE
+mock_755,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-12 14:17:45.374058,United Kingdom,GB,50.56692904896849,-1.6696699855873662,TRUE
+mock_756,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-24 20:26:13.451728,Germany,DE,52.53351565294808,13.675522263954361,TRUE
+mock_757,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-07 03:55:19.37067,Spain,ES,41.39719130420763,-4.068425533374295,TRUE
+mock_758,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-03-03 01:51:04.421566,United Kingdom,GB,50.237622956633324,-0.20059971945062177,TRUE
+mock_759,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-10-17 11:56:36.31577,Finland,FI,59.99694362256872,24.801121791266723,TRUE
+mock_760,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-02-09 04:08:54.132857,Poland,PL,52.574264433640494,21.7860150703962,TRUE
+mock_761,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-09-17 05:47:51.676471,Austria,AT,49.78202399556468,15.110198326186962,TRUE
+mock_762,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-07-13 08:40:49.312417,Sweden,SE,58.807515364125095,22.26509152415908,TRUE
+mock_763,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-01-20 21:06:24.209483,United Kingdom,GB,52.715537280968874,0.2528970708608209,TRUE
+mock_764,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-16 22:50:30.929151,United Kingdom,GB,51.15368384515055,-0.743648615615669,TRUE
+mock_765,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-21 03:19:27.775561,Netherlands,NL,51.57518583355063,4.726271805465156,TRUE
+mock_766,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-08 15:03:23.486887,Netherlands,NL,51.49253240134183,5.550556633408664,TRUE
+mock_767,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-11-11 12:01:49.099529,Portugal,PT,38.52312149969798,-8.33898976816911,TRUE
+mock_768,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-23 16:27:40.938715,France,FR,48.88206824087684,0.17017271731407613,TRUE
+mock_769,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-10-01 07:21:39.462602,France,FR,48.64167853758082,-0.17936306162387483,TRUE
+mock_770,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-09-11 10:23:10.183756,Italy,IT,42.74177852778043,12.392111708644146,TRUE
+mock_771,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-12-03 21:40:42.129562,France,FR,49.05163293255616,3.3041626136704245,TRUE
+mock_772,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-11-01 19:45:11.117508,United Kingdom,GB,51.415337912907304,0.09948899971223871,TRUE
+mock_773,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-23 19:50:49.669062,France,FR,48.41795642197383,3.5306306881353473,TRUE
+mock_774,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-05-12 07:55:06.369077,Germany,DE,51.463187254990366,13.883826149759523,TRUE
+mock_775,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-03-23 10:49:36.976336,Sweden,SE,57.732538689034754,18.59391054383536,TRUE
+mock_776,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-03 02:39:01.939876,United Kingdom,GB,51.67072938441694,1.916224193626936,TRUE
+mock_777,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-01-27 10:37:15.199249,Portugal,PT,38.72026869608899,-10.374529087882102,TRUE
+mock_778,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-10 21:15:23.507081,Portugal,PT,39.792018550287956,-10.049482779613786,TRUE
+mock_779,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-03 08:52:08.526496,Norway,NO,60.132875046595885,11.266214728993182,TRUE
+mock_780,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-02-16 16:10:55.551732,Finland,FI,60.83777416090088,25.30479819934045,TRUE
+mock_781,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-12-29 06:40:43.555304,Spain,ES,40.432789099500525,-6.324601951103171,TRUE
+mock_782,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-04 13:36:23.84992,Netherlands,NL,51.745340760299285,5.545360519940166,TRUE
+mock_783,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-11 02:36:45.731944,France,FR,49.13171251453154,0.7521363059518025,TRUE
+mock_784,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-03-05 15:06:51.402436,United Kingdom,GB,51.77182968904089,-1.570652764190519,TRUE
+mock_785,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-26 12:51:36.476707,Netherlands,NL,51.74608581538925,6.972536263330905,TRUE
+mock_786,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-26 13:54:10.11551,United Kingdom,GB,51.47700054781754,1.2924293639483622,TRUE
+mock_787,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-06-05 08:35:05.26365,Germany,DE,54.1006253208896,12.502206099498055,TRUE
+mock_788,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-12 06:58:18.752055,Netherlands,NL,51.4965871493723,6.900006789916489,TRUE
+mock_789,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-17 20:18:32.178813,France,FR,50.07774287365578,1.664363090514421,TRUE
+mock_790,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-23 01:27:13.845118,United Kingdom,GB,51.318344866812076,1.1343780207671186,TRUE
+mock_791,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-20 18:57:41.929321,Belgium,BE,51.9858484769936,6.052061589277885,TRUE
+mock_792,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-06-20 05:14:20.568973,France,FR,48.225557460410165,3.8972035499151763,TRUE
+mock_793,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-05-21 10:33:26.023063,Netherlands,NL,52.34704373803528,6.405587139323021,TRUE
+mock_794,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-01-03 20:43:31.657523,United Kingdom,GB,51.74898679868629,-0.44480146457112113,TRUE
+mock_795,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-12-12 13:55:02.238281,Spain,ES,40.30992781735727,-4.356082621790903,TRUE
+mock_796,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-10-15 16:12:47.32427,Germany,DE,53.026991071154114,14.904712965278005,TRUE
+mock_797,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-11 19:49:12.078402,France,FR,48.76651079991241,2.2139324972491865,TRUE
+mock_798,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-03-11 03:50:04.597121,United Kingdom,GB,52.46709877212812,-0.9189239455171221,TRUE
+mock_799,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-01 23:36:39.711317,Denmark,DK,55.83633554710738,11.370004250057196,TRUE
+mock_800,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-06-13 08:01:28.798265,United Kingdom,GB,52.053935708995795,1.4618933776598415,TRUE
+mock_801,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-02-15 10:46:11.160655,Portugal,PT,37.75156245075298,-8.190327009511979,TRUE
+mock_802,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-28 17:23:21.294022,Portugal,PT,38.17328856744237,-7.32446279754856,TRUE
+mock_803,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-07-30 11:53:08.942604,Germany,DE,53.371606359033244,12.656525112302441,TRUE
+mock_804,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-13 02:27:50.57154,Italy,IT,42.30702875292853,12.811624672707476,TRUE
+mock_805,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-01-02 16:38:47.016111,Italy,IT,41.79127469951966,11.196174890027157,TRUE
+mock_806,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-12-04 23:51:27.988615,United Kingdom,GB,51.41297381043449,0.0034682758327699292,TRUE
+mock_807,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-06-06 20:45:09.742286,Italy,IT,42.50392012836371,11.484557061136872,TRUE
+mock_808,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-14 11:51:40.036729,Germany,DE,52.32095094270403,13.866687037244466,TRUE
+mock_809,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-29 10:36:49.458531,Germany,DE,52.55996413675194,13.35483702158433,TRUE
+mock_810,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-31 04:39:57.896858,Italy,IT,40.58323615828,14.23472197871099,TRUE
+mock_811,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-08-28 16:38:58.835017,United Kingdom,GB,52.919207492124016,0.28066937852322194,TRUE
+mock_812,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-10-15 18:22:15.797925,Poland,PL,52.81277433278126,20.515223411017093,TRUE
+mock_813,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-01 14:38:45.183459,Italy,IT,42.565830274408604,10.411715203429708,TRUE
+mock_814,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-26 20:30:52.267516,Spain,ES,38.875633982021505,-4.243385534704142,TRUE
+mock_815,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-02 19:08:18.517822,Sweden,SE,59.283330659044466,17.396694992128488,TRUE
+mock_816,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-09-15 01:49:15.107313,Spain,ES,40.07285287004142,-2.322497146820335,TRUE
+mock_817,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-03 17:00:33.343747,Poland,PL,51.098890954738565,21.548835911573633,TRUE
+mock_818,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-12-27 18:00:10.143618,United Kingdom,GB,52.0819442995146,-0.8053676344702865,TRUE
+mock_819,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-08-20 08:30:00.523983,United Kingdom,GB,52.487304624989676,0.17349792883393603,TRUE
+mock_820,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-04-09 17:26:00.362683,Spain,ES,39.95742047529802,-3.539022709784505,TRUE
+mock_821,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-03-18 18:30:04.165048,Germany,DE,52.31664785765701,13.79519332653711,TRUE
+mock_822,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-12-09 08:42:00.781372,Netherlands,NL,53.76916959113782,4.542985343628647,TRUE
+mock_823,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-16 09:46:59.009835,France,FR,47.58015367736239,3.7219855676774265,TRUE
+mock_824,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-02-02 01:57:15.606638,United Kingdom,GB,52.09537662835025,1.4714424639503227,TRUE
+mock_825,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-02-29 14:43:17.010791,United Kingdom,GB,51.24878294081527,-1.5045463181385186,TRUE
+mock_826,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-04-21 14:09:05.44614,Finland,FI,60.10775132687644,26.195342639560135,TRUE
+mock_827,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-16 08:52:00.4161,Germany,DE,52.011220525782285,12.50360357997193,TRUE
+mock_828,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-25 10:02:16.807915,United Kingdom,GB,52.37735630321524,0.16624118775869826,TRUE
+mock_829,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-08-02 22:40:32.815638,Germany,DE,51.59826591113299,14.601134277418998,TRUE
+mock_830,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-08 08:38:06.457175,United Kingdom,GB,52.270087593950635,0.4929719102711526,TRUE
+mock_831,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-01 10:47:28.036721,Germany,DE,53.625171212985514,13.389866698958437,TRUE
+mock_832,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-17 05:39:09.728829,France,FR,47.58668039288024,2.4153643826394493,TRUE
+mock_833,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-02-09 21:12:02.59258,United Kingdom,GB,50.598476645960616,2.600846287019847,TRUE
+mock_834,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-09-27 20:55:38.185709,France,FR,49.373236384401935,4.023961629627801,TRUE
+mock_835,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-31 22:14:45.301199,Spain,ES,39.634952704395246,-3.6875107005538155,TRUE
+mock_836,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-03-16 04:19:29.015332,Spain,ES,39.84677609092289,-4.0849502698217535,TRUE
+mock_837,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-08-20 03:01:35.99095,Germany,DE,52.14371778611891,15.610009840714435,TRUE
+mock_838,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-08-21 18:40:06.332653,Netherlands,NL,52.12441261733874,5.0079096702704105,TRUE
+mock_839,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-03 09:07:43.738623,Poland,PL,52.7629585481969,21.48335138174015,TRUE
+mock_840,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-09-25 21:50:09.300575,United Kingdom,GB,51.017595388164594,1.4712724455889905,TRUE
+mock_841,European coffee consumption is booming but sustainability in the supply chain needs work,2024-10-07 17:04:26.455579,Norway,NO,59.971480329931744,10.064094932729507,TRUE
+mock_842,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-07-15 17:17:46.798834,Denmark,DK,56.28999570977593,12.077423898096681,TRUE
+mock_843,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-03 01:31:30.500897,United Kingdom,GB,50.26769644434258,-0.5585273011249607,TRUE
+mock_844,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-18 04:51:02.486614,Spain,ES,39.84829416588095,-3.494406188668082,TRUE
+mock_845,European coffee consumption is booming but sustainability in the supply chain needs work,2024-07-25 18:00:17.828248,Italy,IT,42.587834768167546,9.600125043863727,TRUE
+mock_846,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-19 08:03:50.495343,United Kingdom,GB,51.19878420745938,-0.6018057239034996,TRUE
+mock_847,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-29 17:19:38.864671,Germany,DE,50.47193322375582,14.248634677880595,TRUE
+mock_848,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-03-12 23:29:30.123343,France,FR,48.21375261710623,2.6741690423803757,TRUE
+mock_849,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-01-11 00:35:39.23734,Denmark,DK,56.352821125540935,13.020768188138865,TRUE
+mock_850,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-11 20:48:18.447921,United Kingdom,GB,51.15872887261938,-2.0042384951511467,TRUE
+mock_851,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-21 00:47:35.978655,Italy,IT,41.576290527966655,12.759825984895633,TRUE
+mock_852,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-12-17 08:49:25.412977,Norway,NO,59.78338462059002,10.662300188544727,TRUE
+mock_853,European coffee consumption is booming but sustainability in the supply chain needs work,2024-12-22 01:27:49.064641,Germany,DE,53.075573094453894,13.42440574787489,TRUE
+mock_854,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-04-10 02:22:42.601213,France,FR,48.50712739822454,3.37134831432534,TRUE
+mock_855,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-05-07 06:25:39.902812,Netherlands,NL,52.7807667507348,6.637700977053577,TRUE
+mock_856,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-12-05 06:21:45.500905,United Kingdom,GB,51.958522934442136,-0.40243704646603784,TRUE
+mock_857,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-05-07 23:15:18.075742,Spain,ES,39.58491233782748,-4.4169655350010935,TRUE
+mock_858,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-02-24 15:43:35.722304,Poland,PL,52.15050221245091,20.702710992300577,TRUE
+mock_859,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-07 12:23:00.050129,France,FR,48.46935591871644,3.229239128181977,TRUE
+mock_860,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-04-13 14:30:16.158378,Poland,PL,52.53356378088861,20.8576953525959,TRUE
+mock_861,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-07-07 17:06:36.354532,Finland,FI,58.993378675095805,24.49890247467892,TRUE
+mock_862,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-06-20 07:54:21.456044,Netherlands,NL,53.63133594221398,4.837088376090717,TRUE
+mock_863,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-07 03:35:01.152031,Germany,DE,53.5768144708768,15.024740243400462,TRUE
+mock_864,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-05-01 18:24:17.697726,Germany,DE,51.82571537799878,12.295218287231668,TRUE
+mock_865,European coffee consumption is booming but sustainability in the supply chain needs work,2024-11-06 17:27:17.634925,Germany,DE,51.96410061775387,13.027074351203655,TRUE
+mock_866,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-27 07:58:50.145957,Ireland,IE,52.5732100414831,-7.466963561818348,TRUE
+mock_867,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-10-05 00:35:40.006135,United Kingdom,GB,51.39076748656184,2.586493106959635,TRUE
+mock_868,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-10-18 07:31:20.766993,Germany,DE,52.099169629367,12.832325431960102,TRUE
+mock_869,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-28 01:13:36.197491,Italy,IT,41.99011075745312,13.587264902577042,TRUE
+mock_870,European coffee consumption is booming but sustainability in the supply chain needs work,2024-11-07 02:45:29.415645,France,FR,47.39982594952458,2.34550031791297,TRUE
+mock_871,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-12-22 17:21:06.530601,Denmark,DK,55.826837371566654,12.389565260371485,TRUE
+mock_872,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-10 15:33:13.00472,Belgium,BE,50.8124501370112,3.9660691696655155,TRUE
+mock_873,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-11-15 03:15:49.570669,United Kingdom,GB,50.21951723099189,-1.0643458505018883,TRUE
+mock_874,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-25 02:59:44.267014,Denmark,DK,55.92077847133597,14.20989162129046,TRUE
+mock_875,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-09 02:37:23.444493,France,FR,48.943962111896724,3.051116785253937,TRUE
+mock_876,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-11 05:39:08.309545,Netherlands,NL,52.215541316242195,4.937356849593023,TRUE
+mock_877,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-12-10 18:11:52.316474,United Kingdom,GB,51.489426967516884,-1.4138960193633106,TRUE
+mock_878,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-12 02:14:42.670261,Italy,IT,42.20795935681786,11.916303121329626,TRUE
+mock_879,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-07 08:20:21.438872,Poland,PL,52.477378973601,22.143712419916923,TRUE
+mock_880,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-10-02 21:58:04.687818,Spain,ES,40.0547097915371,-4.893416017711379,TRUE
+mock_881,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-17 08:28:26.826583,Portugal,PT,39.620142431462966,-9.78624438702165,TRUE
+mock_882,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-01-22 10:07:02.665326,Norway,NO,59.870774245689695,11.739807817884346,TRUE
+mock_883,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-26 18:51:07.072139,Netherlands,NL,52.29135886261075,5.357639705306892,TRUE
+mock_884,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-03-31 20:31:30.44673,Denmark,DK,56.45569443651562,11.879930191251407,TRUE
+mock_885,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-10-08 04:57:07.276951,Poland,PL,52.99363308933605,22.98313814411295,TRUE
+mock_886,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-09-29 16:06:13.99138,United Kingdom,GB,50.93946419602488,-1.5289203221699061,TRUE
+mock_887,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-12-15 19:55:28.139227,Germany,DE,51.70715306253233,15.098812942283029,TRUE
+mock_888,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-10-30 01:11:32.509145,United Kingdom,GB,50.93550555787294,0.8770073806309783,TRUE
+mock_889,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-31 04:51:45.882275,Denmark,DK,54.75937928533743,10.082914741972262,TRUE
+mock_890,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-08-12 06:48:36.742719,Denmark,DK,54.27504243860775,12.984198098985209,TRUE
+mock_891,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-04-27 02:22:28.939005,Germany,DE,52.74848601747071,14.361230144508863,TRUE
+mock_892,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-12-14 04:41:15.373907,Italy,IT,41.78391171124046,11.549983215148668,TRUE
+mock_893,European coffee consumption is booming but sustainability in the supply chain needs work,2024-09-21 13:38:49.860272,Spain,ES,40.914039802953965,-3.712799515880762,TRUE
+mock_894,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-03 21:04:42.263285,France,FR,48.89867251015895,0.35177847206662727,TRUE
+mock_895,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-31 13:09:00.558189,France,FR,49.22733036966188,1.210919537734641,TRUE
+mock_896,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-03 16:24:34.677363,Portugal,PT,38.303153482151885,-8.935879933092833,TRUE
+mock_897,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-06-24 11:41:25.032843,France,FR,48.13191363287907,2.6254255478383683,TRUE
+mock_898,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-06-21 14:23:08.356253,United Kingdom,GB,52.12250577965634,-0.18839345824602394,TRUE
+mock_899,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-01-10 03:09:54.545136,Sweden,SE,59.90889649306227,17.170683605886353,TRUE
+mock_900,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-02-27 18:08:43.725806,Netherlands,NL,51.01303025289341,5.612579362631427,TRUE
+mock_901,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-01 05:45:43.681209,United Kingdom,GB,52.20183572146141,1.4930054714980214,TRUE
+mock_902,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-15 00:33:13.478023,United Kingdom,GB,50.08130284885304,-0.8210029981806168,TRUE
+mock_903,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-07-04 16:39:39.548134,France,FR,48.86345014055107,2.367808229901223,TRUE
+mock_904,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-05 04:40:55.505598,United Kingdom,GB,51.18410219681269,-0.7372915474982525,TRUE
+mock_905,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-16 03:04:58.915096,Spain,ES,40.29755498686318,-3.7970785412523402,TRUE
+mock_906,European coffee consumption is booming but sustainability in the supply chain needs work,2024-11-19 23:30:25.630847,Poland,PL,53.076990185509295,21.192906704005658,TRUE
+mock_907,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-17 16:33:36.080482,France,FR,47.895825711504074,2.1774313224036383,TRUE
+mock_908,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-06 20:39:13.474937,Germany,DE,52.28761304429609,12.974300036256714,TRUE
+mock_909,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-28 18:58:48.439099,Spain,ES,42.4426419920322,-4.265472816512042,TRUE
+mock_910,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-09-28 04:05:33.904975,United Kingdom,GB,50.31735495523958,-0.05914698716606599,TRUE
+mock_911,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-07 09:50:22.066267,France,FR,48.39872994541542,2.059134551171881,TRUE
+mock_912,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-03-05 09:53:52.294679,France,FR,48.86715838212689,1.6466616454768714,TRUE
+mock_913,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-21 00:05:44.564375,Poland,PL,52.35996257586596,21.452834723574643,TRUE
+mock_914,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-04-29 19:38:57.535367,Portugal,PT,38.273355519578104,-8.615526207303464,TRUE
+mock_915,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-09-29 16:05:11.366795,Norway,NO,59.68717414585279,11.00428432505164,TRUE
+mock_916,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-06-25 18:32:41.963146,Norway,NO,60.76731825129493,9.478704094535132,TRUE
+mock_917,European coffee consumption is booming but sustainability in the supply chain needs work,2024-01-04 16:06:33.067197,Austria,AT,48.05540361629997,16.882963639149313,TRUE
+mock_918,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-07-22 06:19:33.214075,Spain,ES,40.601244255502586,-3.1890205873468647,TRUE
+mock_919,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-10-21 08:54:26.642424,Germany,DE,52.795633788123915,13.060245537365141,TRUE
+mock_920,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-13 02:35:58.89108,United Kingdom,GB,51.82562740751181,0.5643584865386673,TRUE
+mock_921,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-06-21 15:29:01.958123,Denmark,DK,56.09400401539663,14.117227478972502,TRUE
+mock_922,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-04 15:13:28.53454,Austria,AT,48.24370606324185,16.793362955833555,TRUE
+mock_923,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-11-19 07:14:41.145237,Austria,AT,47.63306073907047,17.318127647971274,TRUE
+mock_924,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-11 02:27:24.132596,United Kingdom,GB,51.45338339804516,1.439088150572294,TRUE
+mock_925,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-01-03 01:53:53.059759,Spain,ES,39.62926254220999,-1.7093356794047883,TRUE
+mock_926,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-08 13:05:38.541341,Ireland,IE,53.3747146372847,-6.776875775761893,TRUE
+mock_927,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-12-25 22:22:47.972188,United Kingdom,GB,51.221679093232716,-0.5894014175045043,TRUE
+mock_928,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-02-01 23:10:55.454978,France,FR,48.80533244948356,1.9052974499251016,TRUE
+mock_929,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-07-05 16:50:04.709579,United Kingdom,GB,50.620727234260066,1.22129190542074,TRUE
+mock_930,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-21 16:24:28.594958,Italy,IT,41.67353887006222,13.198061552939262,TRUE
+mock_931,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-12-11 17:36:23.420639,Italy,IT,41.02821226172351,13.649335043308836,TRUE
+mock_932,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-01-16 23:38:30.178772,Finland,FI,59.87546756472011,25.36170616520483,TRUE
+mock_933,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-09-03 12:16:57.155638,Portugal,PT,39.12152580767821,-9.446153276287701,TRUE
+mock_934,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-04-05 18:43:31.658898,Poland,PL,52.3923359854204,19.252618094527698,TRUE
+mock_935,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-18 21:03:12.16482,Norway,NO,60.61868996579949,8.754418151205375,TRUE
+mock_936,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-12 04:53:48.684526,United Kingdom,GB,51.89037450154838,2.3134654295546415,TRUE
+mock_937,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-11-15 19:11:01.793299,United Kingdom,GB,51.58959309215803,-0.0952464010566781,TRUE
+mock_938,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-02-05 02:17:25.59921,France,FR,49.698650677708976,2.9698662878825868,TRUE
+mock_939,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-03-05 00:31:07.987977,Germany,DE,53.45337344700274,14.233392422720968,TRUE
+mock_940,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-06-14 22:06:44.12636,Denmark,DK,54.580489946301036,14.335585484145977,TRUE
+mock_941,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-09-26 22:43:02.289179,Italy,IT,42.61371818931742,13.26016249203143,TRUE
+mock_942,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-17 23:35:22.252051,Italy,IT,42.522367176272645,12.5316444043526,TRUE
+mock_943,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-27 23:34:09.836129,United Kingdom,GB,52.25353161307756,0.7914506193854574,TRUE
+mock_944,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-06-13 16:45:11.126118,France,FR,48.17295783015911,2.7167640705527907,TRUE
+mock_945,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-03-14 01:26:44.212408,Norway,NO,61.82714467558097,10.045614088908835,TRUE
+mock_946,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-09 19:33:34.412416,France,FR,46.82459986055353,3.4501903115587114,TRUE
+mock_947,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-01-05 12:05:36.034649,United Kingdom,GB,51.50549043001128,0.09732962017251073,TRUE
+mock_948,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-21 22:02:14.338566,Sweden,SE,59.39448533514267,18.058352918844363,TRUE
+mock_949,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-09-17 04:12:05.795547,Spain,ES,40.28024213887193,-4.804892578449327,TRUE
+mock_950,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-05 14:59:04.503359,United Kingdom,GB,52.098298630290536,1.277666179564651,TRUE
+mock_951,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-14 05:01:15.2091,France,FR,48.99922784551906,1.832143867964437,TRUE
+mock_952,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-05-06 23:59:50.195245,France,FR,48.27755620222988,2.180884084067134,TRUE
+mock_953,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-04 23:57:35.856807,Germany,DE,53.62802664439378,13.366440725159343,TRUE
+mock_954,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-08-30 22:57:55.323301,Sweden,SE,59.064870553416114,18.031613338155257,TRUE
+mock_955,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-04-19 16:01:37.501087,France,FR,49.3885429160043,2.9667908200981303,TRUE
+mock_956,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-14 11:05:46.869466,Spain,ES,39.86679193610939,-2.617691393207779,TRUE
+mock_957,European coffee consumption is booming but sustainability in the supply chain needs work,2024-06-07 21:15:35.527676,Spain,ES,39.5520936973836,-3.0560522941191555,TRUE
+mock_958,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-07-04 18:50:02.642997,Denmark,DK,55.21532904067015,10.834576634082193,TRUE
+mock_959,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-07-02 10:38:58.795508,Netherlands,NL,51.5545268633167,2.008768710077716,TRUE
+mock_960,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-10-10 09:11:03.147701,Netherlands,NL,52.82648517813997,4.461979146664555,TRUE
+mock_961,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-08-31 22:35:39.092146,France,FR,47.65832590828206,2.082477818439001,TRUE
+mock_962,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-08-05 22:08:23.281888,Netherlands,NL,51.617208427753134,4.7211244688070275,TRUE
+mock_963,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-12-05 22:08:37.292232,United Kingdom,GB,51.52177468412798,-1.7712576326312865,TRUE
+mock_964,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-07-22 00:29:01.471584,Denmark,DK,54.32754214640233,11.784768906746068,TRUE
+mock_965,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-08-30 16:19:41.441235,United Kingdom,GB,51.09608957880583,-2.2829415623367586,TRUE
+mock_966,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-11-28 03:20:49.793181,Portugal,PT,38.45606185526594,-5.933221337821424,TRUE
+mock_967,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-29 22:25:37.165236,United Kingdom,GB,52.57686258834132,0.5559299338618935,TRUE
+mock_968,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-03-23 19:36:56.393939,Germany,DE,52.29397064736264,13.392615273284711,TRUE
+mock_969,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-10-15 17:07:02.15061,Norway,NO,59.48137015947333,8.531832638570046,TRUE
+mock_970,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-10-12 04:10:14.877621,Germany,DE,51.96942576082189,13.07985995460179,TRUE
+mock_971,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-05-06 05:26:29.309035,France,FR,49.25777683175413,3.284517212236781,TRUE
+mock_972,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-08-03 10:34:04.315271,Italy,IT,41.64443921445919,13.433832248059526,TRUE
+mock_973,European coffee consumption is booming but sustainability in the supply chain needs work,2024-05-21 08:17:46.978394,Spain,ES,39.96497692005047,-3.1550895717729244,TRUE
+mock_974,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-03-25 05:18:46.970002,Spain,ES,40.17626124600919,-2.007937392337986,TRUE
+mock_975,European coffee consumption is booming but sustainability in the supply chain needs work,2024-10-13 13:53:24.995497,United Kingdom,GB,52.35218608029355,-2.273276926115778,TRUE
+mock_976,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-06-21 06:04:40.700429,Germany,DE,53.754262999316495,12.077057910695613,TRUE
+mock_977,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-09-18 07:24:23.502006,Germany,DE,51.98551033683317,13.376998554419743,TRUE
+mock_978,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-05-08 23:53:01.866098,France,FR,48.91641739880855,2.4791644636160526,TRUE
+mock_979,Swedish coffee culture + sustainability = a natural fit <f0><9f><87><b8><f0><9f><87><aa> #fika #sustainablecoffee,2024-04-26 16:59:50.308093,Sweden,SE,59.040652433299606,17.46108175568208,TRUE
+mock_980,"Organic, fair trade, shade-grown <e2><80><94> how many certifications does one cup need? <f0><9f><98><82>",2024-09-29 10:31:04.230511,United Kingdom,GB,52.985916817740296,1.3374153514442633,TRUE
+mock_981,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-09-02 21:50:17.016245,France,FR,49.37261119605525,-0.15111492267363813,TRUE
+mock_982,European coffee consumption is booming but sustainability in the supply chain needs work,2024-08-28 15:55:31.804901,United Kingdom,GB,50.07549862608288,-1.3171730377759368,TRUE
+mock_983,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-11-22 21:35:09.560374,Italy,IT,41.552713040339746,14.424701865659822,TRUE
+mock_984,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-01-13 05:20:44.755563,Denmark,DK,53.86580023063519,13.670820040988431,TRUE
+mock_985,Bought a kilo of sustainably sourced Ethiopian blend. Tastes amazing AND guilt-free!,2024-08-04 17:58:33.131773,Italy,IT,41.82562780923877,10.678753326034442,TRUE
+mock_986,My local roaster sources direct-trade beans from Ethiopia. Great taste AND ethics <f0><9f><91><8c>,2024-12-12 21:12:57.925171,Germany,DE,53.06317156266377,14.388233931382572,TRUE
+mock_987,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-07-20 23:14:55.131107,Belgium,BE,50.08440830299458,4.838674697610199,TRUE
+mock_988,Rainforest Alliance vs Fair Trade <e2><80><94> which certification do you trust more? #coffee,2024-01-07 00:14:23.159551,United Kingdom,GB,50.4739945663403,-1.69710600197187,TRUE
+mock_989,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-10-16 18:03:26.501777,Germany,DE,53.50462733932038,13.83149138536124,TRUE
+mock_990,New study: consumers in Germany most likely to pay premium for certified #sustainablecoffee,2024-10-02 04:41:40.795274,Belgium,BE,50.02829601632929,5.471593531986432,TRUE
+mock_991,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-11-21 17:46:41.015157,Norway,NO,60.626227104851274,9.605881204920824,TRUE
+mock_992,Does your office serve fair trade coffee? Mine doesn't and it bothers me every morning,2024-03-23 20:31:25.92006,United Kingdom,GB,51.67125889093534,0.5236063071029485,TRUE
+mock_993,Just tried a new #sustainable coffee brand <e2><80><94> the packaging is compostable! <e2><98><95><f0><9f><8c><bf>,2024-04-26 10:12:42.321802,Denmark,DK,56.404818498199184,11.11711986206005,TRUE
+mock_994,Really impressed with how many European cafes are switching to #fairtrade coffee,2024-11-08 23:37:02.404213,Ireland,IE,54.102035998626214,-5.564327750813512,TRUE
+mock_995,Love that @coffeeshop switched to biodegradable cups! Small steps matter <e2><99><bb><ef><b8><8f><e2><98><95>,2024-11-20 13:17:23.980102,United Kingdom,GB,52.4119284036542,-1.279650065147123,TRUE
+mock_996,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-08-26 19:15:33.281788,United Kingdom,GB,52.48882868184621,-0.5508945811050989,TRUE
+mock_997,The CO2 footprint of my morning espresso is something I try not to think about too much,2024-10-14 08:12:33.808477,Spain,ES,40.63632120811414,-4.950082461399874,TRUE
+mock_998,Not sure if 'eco coffee' labels actually mean anything anymore... #greenwashing?,2024-11-30 17:09:47.514811,United Kingdom,GB,51.63740881888437,0.7372008289162033,TRUE
+mock_999,Sustainable coffee is trendy but is it actually accessible for everyone? Prices are high,2024-09-29 02:34:46.934097,Italy,IT,41.135688573843645,12.326661435896767,TRUE
+mock_1000,Carbon neutral coffee <e2><80><94> is this actually achievable? Interesting article on supply chains,2024-06-05 16:55:51.59082,United Kingdom,GB,50.53167270315461,0.49825207656715254,TRUE
